@@ -1,0 +1,51 @@
+<channels>
+	<!-- opicional -->    
+    <channel>
+        <name>[COLOR lime]�[/COLOR]Filmes Link servidor 1 [COLOR yellow]Direto[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://cinedragonservidorzyekmenuprincipal.netlify.app/raw/submenufilmes/zyeksubmenufilmesservidor1direto</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR red]�[/COLOR]Filmes de A a Z servidor 2 [COLOR yellow]Direto[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://cinedragonservidorzyekmenuprincipal.netlify.app/raw/submenufilmes/zyeksubmenufilmesservidor2direto</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Filmes servidor 3 [COLOR yellow]Direto[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://cinedragonservidorzyekmenuprincipal.netlify.app/raw/submenufilmes/zyeksubmenufilmeservidor3direto</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR red]�[/COLOR]Filmes Via [COLOR yellow]Torrent[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>Nesseçario ter o addon elementum</info>
+		<externallink>https://cinedragonservidorzyekmenuprincipal.netlify.app/raw/submenufilmes</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Acervo Colaborador [COLOR rosybrown]R.O[/COLOR][COLOR yellow] Torrent[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>ajudadores do cine dragon     [COLOR yellow]Roberson Outeiro[/COLOR]</info>
+		<externallink>https://cinedragonservidorzyekmenuprincipal.netlify.app/raw/submenufilmes/zyekacervoroberson</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Filmes Ultimos Lançamentos 2023 Via [COLOR yellow]Torrent[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>Total de Filmes Adicionado=>[COLOR yellow]132[/COLOR]       Só Lançamento Atual</info>
+		<externallink>https://cinedragonservidorzyekmenuprincipal.netlify.app/raw/submenufilmes/zyekfilmeslancamentostorrents2023</externallink>
+    </channel>
+
+</channels>	

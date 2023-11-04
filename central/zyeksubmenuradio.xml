@@ -1,0 +1,146 @@
+<channels>
+	<!-- opicional -->    
+    <channel>
+        <name>[B][COLOR lime]�[/COLOR] [COLOR yellow]STATUS DO SERVIDOR[/COLOR][/B]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https:// </externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR red]�[/COLOR]Radio Brasileiras</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>http://capivara.top/enigma2?username=69754976010947&password=346857440425&type=get_series&cat_id=149</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Top radio anos 80</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1152313319126999192/1152313366963032135/top_radio_80s_cheked.txt</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Top radio anos 90</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1152313319126999192/1152313401628971109/top_radio_90s_Cheked.txt</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Radio Alternatives</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1152313319126999192/1152313432285134930/top_radio_alternative_Checked.txt</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Radios Asian</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1152313319126999192/1152313480947433533/top_radio_asian_Checked.txt</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Radio Blues</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1152313319126999192/1152313506029387819/top_radio_blues_Checked.txt</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Radio Classical</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>Peça seu filme</info>
+		<externallink>https://cdn.discordapp.com/attachments/1152313319126999192/1152313537729937428/top_radio_classical_checked.txt</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Radio Coutry</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>Contribua para nosso funcionamento</info>
+		<externallink>https://cdn.discordapp.com/attachments/1152313319126999192/1152313574392332328/top_radio_country_checked.txt</externallink>
+    </channel>
+
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Radio Eletronic</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>Peça seu filme</info>
+		<externallink>https://cdn.discordapp.com/attachments/1152313319126999192/1152313608622067722/top_radio_electronic_checked.txt</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR lime]�[/COLOR]Radio Hard Rock</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>Peça seu filme</info>
+		<externallink>https://cdn.discordapp.com/attachments/1152313319126999192/1152313687554666700/top_radio_hardrock_checked.txt</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR lime]�[/COLOR]Radio Hip Hop</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>Peça seu filme</info>
+		<externallink>https://cdn.discordapp.com/attachments/1152313319126999192/1152313738381234287/top_radio_hip_hop_cheked.txt</externallink>
+    </channel>
+
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Radio Instrumental</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>Peça seu filme</info>
+		<externallink>https://cdn.discordapp.com/attachments/1152313319126999192/1152313784845742100/top_radio_instrumental_cheked.txt</externallink>
+    </channel>
+
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Radio Pop</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>Peça seu filme</info>
+		<externallink>https://cdn.discordapp.com/attachments/1152313319126999192/1152313834770538566/top_radio_pop_cheked.txt</externallink>
+    </channel>
+
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Radio Reggae</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>Peça seu filme</info>
+		<externallink>https://cdn.discordapp.com/attachments/1152313319126999192/1152328585332408450/top_radio_reggae_checked.txt</externallink>
+    </channel>
+
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Radio Rock</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>Peça seu filme</info>
+		<externallink>https://cdn.discordapp.com/attachments/1152313319126999192/1152313873735614484/top_radio_rock_cheked.txt</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR lime]�[/COLOR]Radio Wave</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>Peça seu filme</info>
+		<externallink>https://cdn.discordapp.com/attachments/1152313319126999192/1152313915611549738/top_radio_wave_cheked.txt</externallink>
+    </channel>
+	
+		<channel>
+        <name>[COLOR lime]�[/COLOR]Radio Word</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>Peça seu filme</info>
+		<externallink>https://cdn.discordapp.com/attachments/1152313319126999192/1152313949732208700/top_radio_world_checked.txt</externallink>
+    </channel>
+</channels>	

@@ -1,0 +1,27 @@
+<channels>
+	<!-- opicional -->    
+    <channel>
+        <name>A Escolha</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rdE6ujMhidDpDu1T7ZyFzATLuyV.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rdE6ujMhidDpDu1T7ZyFzATLuyV.jpg</fanart>
+		<info>A vida do idealista professor de economia Irfan vira de cabeça para baixo depois de ser demitido injustamente e saber que seu filho de 7 anos está doente.</info>
+		<externallink>https://cdn.discordapp.com/attachments/1158041280824225793/1158041377779752980/A_Escolha.m3u?ex=651acd93&is=65197c13&hm=2cf15609face0ca01239bf78b19603cfd1e3258d5a213e3770f897da23e546d4&</externallink>
+    </channel>
+	
+	   <channel>
+        <name>Coração Ferido</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iEIKOUTTa0yyUWOLeQop8KzG5R4.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iEIKOUTTa0yyUWOLeQop8KzG5R4.jpg</fanart>
+		<info>Uma história impressionante de vingança entre duas famílias. Na série, tudo vira de cabeça para baixo quando Ferit e Hande planejam um casamento com o apoio de suas famílias. Quando seu cavalo fica doente, Ömer é forçado a voltar cedo para a fazenda e vê Hande intimamente com Yaman, o filho do filho da fazenda. Então ele faz uma “proposta” para Ayşe.</info>
+		<externallink>https://cdn.discordapp.com/attachments/1158041280824225793/1158041405852233728/Coracao_Ferido.m3u?ex=651acd9a&is=65197c1a&hm=a149d5b4badb65a5d3273a68515cc2b154a0f2548c742e1258b0c2b7aea0bdb1&</externallink>
+    </channel>
+	
+	   <channel>
+        <name>Sr._Errado</name>
+        <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmoyaHigRzIqLbrp3apv3nwMShx9z_x8jCJ5fAag_fzEmzqQDU</thumbnail>
+        <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmoyaHigRzIqLbrp3apv3nwMShx9z_x8jCJ5fAag_fzEmzqQDU</fanart>
+		<info>Cansada de relacionamentos tóxicos, Ezgi desiste de namorar. Özgür, seu vizinho que não acredita no amor, a ensina táticas para conseguir o homem que deseja.</info>
+		<externallink>https://cdn.discordapp.com/attachments/1158041280824225793/1158041438240636988/Sr._Errado.m3u?ex=651acda2&is=65197c22&hm=aab25290536523ad1abedfc4de55870510cf98d434b24d1883624b77782b62de&</externallink>
+    </channel>
+
+</channels>	

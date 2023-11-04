@@ -1,0 +1,154 @@
+<channels>
+	<!-- opicional -->    
+    <channel>
+        <name>[COLOR lime]�[/COLOR]Ação</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1167135942893641818/Acao.m3u?ex=654d070d&is=653a920d&hm=11743a8e7a13e4809590d14888da9bcd180e58410c00717aea7da72489c41956&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Animação</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1167135943849934858/animacao.m3u?ex=654d070d&is=653a920d&hm=85023ebaae926366c81fb9c27196363e181d35055df5018f5a5763097e07d899&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Animes</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1167135944168706142/animes.m3u?ex=654d070d&is=653a920d&hm=4c5fb2450a93e933b8e78ac7005faeb2095c771625861113381a4e27c32e77e9&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Aventura</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1167135944479088681/aventura.m3u?ex=654d070d&is=653a920d&hm=3b024d3dd0158db8632645bda4754cb92e5c9830369feb3c2f9679462799fe62&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Cinema Tv</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1167135944802041938/cinema_TV.m3u?ex=654d070d&is=653a920d&hm=9392e14eb14047bf45fd83df107fb6aeaa64fae3e446dc11a475695a1caf1221&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Comédia</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1167135945125007461/comedia.m3u?ex=654d070d&is=653a920d&hm=944f505fb4067abfd1c5ff72d2c066b571f6940cfcab4b5338734db5b14498c6&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Crime</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1167135945431195688/crime.m3u?ex=654d070d&is=653a920d&hm=0bcdd854ab58034a3fc0b590f4494f82329c60a4d34cf3541c17ed693d0777a9&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Documentarios</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1167135945766731877/documentarios.m3u?ex=654d070d&is=653a920d&hm=da1bc693e4ef19a8ddeec6101e8f7a05943e3558e497265c93ed2ab0818a5b61&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Drama</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1167135946081308682/drama.m3u?ex=654d070d&is=653a920d&hm=596239d520acf74080554659db3e19805240ec01f6aebdf6c8cd168fc807c335&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Familia</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1167135946425245696/familia.m3u?ex=654d070d&is=653a920d&hm=04f95bde350f71a29f1a6b27ea7674e3a42e9efea93f90ba659bd2a8c78a5e2c&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Fantasia</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1167136042449645578/fantasia.m3u?ex=654d0724&is=653a9224&hm=bbdb553b3071165473c4b81d08b113606cfdf7bbdd00f00e38abc453612b4004&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Faroeste</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1167136042785181716/faroeste.m3u?ex=654d0724&is=653a9224&hm=3ee2a8b15a29af03606f467525b96bb278e26293c91c1c2e57f13171355031c3&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Ficção cientifica</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1167136043078791229/ficcao_Cientifica.m3u?ex=654d0725&is=653a9225&hm=a261ee60d5582c2b99a56339a08ec51cd0b202840307c73fcddc945a895f470d&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Guerra</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1167136043439505478/Guerra.m3u?ex=654d0725&is=653a9225&hm=5c1fa56db93221958d6e59993b2abce6fa36268113c7456be4536e3fbfebd3bb&</externallink>
+    </channel>
+
+    <channel>
+        <name>[COLOR lime]�[/COLOR]Historia</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1167136043758260364/Historia.m3u?ex=654d0725&is=653a9225&hm=2d2237d0bad047ecd292cfb82f9820a0c58ee7ac69c32a03db40105e9551dbaa&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Misterio</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1167136044043481199/Misterio.m3u?ex=654d0725&is=653a9225&hm=405194ce4260b44a84c8329cc797e6af4b514b2e9a6a68e667fc4095e05c3c24&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Musical e romance</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1167136044366446742/musical_e_romance.m3u?ex=654d0725&is=653a9225&hm=9ecd02900af1555b0d95a9688a8242cb6caa0d5326ca803dc44e7c52f71087a5&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Terror</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1167136044953636964/terror.m3u?ex=654d0725&is=653a9225&hm=3bc86e096ad209443a8f2cca35a0f86d32db3a3c821f54a814a895e5e4ed656e&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Thriller</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1167136045255634975/Thriller.m3u?ex=654d0725&is=653a9225&hm=3df79bf181bb1823a1b78f84af83b0000dafc8d51fc5bec86a8c4d5e02a34162&</externallink>
+    </channel>
+</channels>	

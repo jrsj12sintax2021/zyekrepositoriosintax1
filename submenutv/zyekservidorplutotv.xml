@@ -1,0 +1,138 @@
+<channels>
+	<!-- opicional -->    
+    <channel>
+        <name>[COLOR lime]●[/COLOR]Guia de Canais</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1161005239411933184/1161005341694234764/guia_canais.m3u?ex=6536b97b&is=6524447b&hm=cbc1178c4574d7e62ce526ebe8d96979e7dc7a5358722a400af23bcb95da3e3b&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Filmes</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1161005239411933184/1161005741419794432/filmes.m3u?ex=6536b9db&is=652444db&hm=f40a1f7ae3b84ff5ed347d583552d93a7c9daee54ab7ba205fbdee36bdc32cd2&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Paramount+ Apresenta</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1161005239411933184/1161005902762086520/Paramount_Apresenta.m3u?ex=6536ba01&is=65244501&hm=0f8e3202f48d1baa5642adc26fd2e48dcda0442dc4175798912edec4fe8c0f7e&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Séries</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1161005239411933184/1161006030176669876/Series.m3u?ex=6536ba20&is=65244520&hm=be76198b6640c118da9921e42e7456795c4b1e4773b49424cf5b94ff500b299d&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Retrô</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1161005239411933184/1161006144479830036/Retro.m3u?ex=6536ba3b&is=6524453b&hm=a5c2bc0b16c32cca459206d95e54fe51b7dc10e07072ee40f310668fd5b854af&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Reality</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1161005239411933184/1161006288189264055/Reality.m3u?ex=6536ba5d&is=6524455d&hm=b83deaaac893d4c09b0a30a14019636fe36631416f554fc1eec1e8dcefa0859d&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Curiosidades</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1161005239411933184/1161006413028528296/Curiosidades.m3u?ex=6536ba7b&is=6524457b&hm=3c625944b727fddabfd06af12da4cc079a67bc987dd7520842c47a5d545a1e35&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Investigação</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1161005239411933184/1161006527545610250/Investigacao.m3u?ex=6536ba96&is=65244596&hm=fbec0c7f55c8cea33fd717c15d6a656a7525181935d9738dfb1485ea766f5ad3&</externallink>
+    </channel>
+
+<channel>
+        <name>[COLOR lime]●[/COLOR]Notícias</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1161005239411933184/1161006655555780739/Noticias.m3u?ex=6536bab5&is=652445b5&hm=1ca599ed20689d4155b5b384594f4930fe02c4cdb7e7b9187656da2790b4e10f&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Esportes</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1161005239411933184/1161006767594012772/Esportes.m3u?ex=6536bacf&is=652445cf&hm=13b45770a12f59cbd519ad427a2a88f8540dc55c9af24b85765e5d8951583e78&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Comédia</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1161005239411933184/1161006890751377559/Comedia.m3u?ex=6536baed&is=652445ed&hm=4a419d47679d671049e4943eb86e7a7970f903f47b9cc85c979af60b23d49be3&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Entretenimento</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1161005239411933184/1161007010674921552/Entretenimento.m3u?ex=6536bb09&is=65244609&hm=75d5000328e903dc1a694ed3edba41fc7b8767f23c67147add3fce175a694370&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Estilo de Vida</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1161005239411933184/1161007271690637486/Estilo_de_Vida.m3u?ex=6536bb48&is=65244648&hm=39c46a7a5f815c4ef8ce83300223c2f04f07a6839ef75500039c2dfbeb75d0a5&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Anime & Geek</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1161005239411933184/1161007402594865192/Anime__Geek.m3u?ex=6536bb67&is=65244667&hm=41ec9d700093db0ceca90de7b258d65a7e3b196899fdb9f601bd6bb82205259e&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Teen</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1161005239411933184/1161007521851518976/Teen.m3u?ex=6536bb83&is=65244683&hm=54d835b62007e7450e61aabb1f9357225e24854dc468fbe40c5e9139e9fe97a7&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Infantil</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1161005239411933184/1161007685794279494/Infantil.m3u?ex=6536bbaa&is=652446aa&hm=f144bf677fc6915416d80f0ee19f56a6f6809bec2255bde4c5f3e0216d2306b1&</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Música</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1161005239411933184/1161007811099119676/Musica.m3u?ex=6536bbc8&is=652446c8&hm=f1a74c9ba600fa796416846f39dd12bcc54b55a5f580ef6488706e58f0351eaf&</externallink>
+    </channel>
+</channels>	
