@@ -17,10 +17,10 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Servidor Em manutenção [COLOR yellow]Pluto TV[/COLOR]</name>
+        <name>[COLOR lime]�[/COLOR]Servidor leia com atencao do lado [COLOR yellow]Pluto TV[/COLOR]</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<info>Este servidor trava sempre no comercial do pluto congela a imagem fica so o audio quando entrar na propaganda da pluto esperar acabar a propaganda e para e entrar dinovo</info>
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyekservidorplutotv.xml</externallink>
     </channel>
 	
@@ -29,7 +29,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://cdn.discordapp.com/attachments/1156363595613995068/1168984380828549190/teste_canais.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuservidor4.xml</externallink>
     </channel>
 
 </channels>	
