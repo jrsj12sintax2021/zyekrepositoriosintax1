@@ -1,5 +1,13 @@
-﻿<channels>
+<channels>
 	<!-- opicional -->    
+	<channel>
+        <name>Acervo R.O</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>Este acervo é de um ajudador do Cine Dragon</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenudesenhoslink/dalmatas.xml</externallink>
+    </channel>
+	
 	<channel>
         <name>101 dalmatas</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
