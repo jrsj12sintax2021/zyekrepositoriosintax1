@@ -1,227 +1,181 @@
 <channels>
 	<!-- opicional -->    
-    <channel>
-        <name>[B][COLOR lime]●[/COLOR] [COLOR yellow]Cine Dragon.obrigatoriamente o f4mTester instalado[/COLOR][/B]</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
-		<externallink>https:// </externallink>
-    </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]24h</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | ABERTOS</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158541021781692436/24H.m3u?ex=651c9ee8&is=651b4d68&hm=a5cc5626fc739b50fa7a8477f75cf6c99d3f8c3b5a9d47b520fc40649a835694&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075460527435816/Abertos.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]A FAZENDA</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | CAMPEONATOS ESTADUAIS</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158541022167564299/A_FAZENDA.m3u?ex=651c9ee8&is=651b4d68&hm=ee2fcbe20ec03de9b789a2b03c8c5424170ec41054f3f9a42d6191c7218f1928&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075461123018802/campeonatos_estaduais.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]ABERTOS</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | DAZN |AMAZON PRIME</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158541022599594034/ABERTOS.m3u?ex=651c9ee8&is=651b4d68&hm=b7747bc7ff649d52c4f6bff795e431284b5365d7cad272cd8a3418012bccea82&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075460821041192/Amazon.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]CAMPEONATOS ESTADUAIS</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | DISCOVERY</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158541022960291970/CAMPEONATOS_ESTADUAIS.m3u?ex=651c9ee8&is=651b4d68&hm=1d06b55c5ccfc5f1a8a1b3c710e469b479772978e733af1ca555424cdb49d236&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075461479542794/Discovery.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]CINE SKY</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | DOCUMENTARIOS</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158541023258083338/CINE_SKY.m3u?ex=651c9ee8&is=651b4d68&hm=453f5ac0f92491597d55deed19236edff81f7f47252cf1f99ce6e62c9816d21b&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075462658146344/documentarios.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]DAZN</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | ESPN</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158541023572672542/DAZN.m3u?ex=651c9ee8&is=651b4d68&hm=977a1be3b7e5c85898c3de95efd756363e5d779940cfb46073817b504894b8d7&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075463094349955/ESPN.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]ESPN</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | ESPORTES</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158541024285704232/ESPN.m3u?ex=651c9ee8&is=651b4d68&hm=ba23d774462a0b5b9d527e73d300b740a85a0206c66a0a4d038e19f07c010e2b&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075463715110942/Esportes.m3u</externallink>
     </channel>
 
     <channel>
-        <name>[COLOR lime]●[/COLOR]ESPORTES</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | EVENTOS E NOVIDADES</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158541024885477416/ESPORTES.m3u?ex=651c9ee8&is=651b4d68&hm=a6b67844bb938f171dfed9e33c1d7687834375270e1cb41c597b32f305fd6101&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075464193257492/Eventos_e_novidades.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]DOCUMENTARIOS</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | FILMES E SERIES</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158541023941754921/DOCUMENTARIOS.m3u?ex=651c9ee8&is=651b4d68&hm=1601db6be3abad95c27dedd71a6fb38c8e90cd7d6b56105ce4fdbf4749acfd1f&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075464658829413/Filmes_e_series.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]FILMES E SERIES</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | GLOBO</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158541025221017611/FILMES_E_SERIES.m3u?ex=651c9ee9&is=651b4d69&hm=323855ceab914391043724d3374c167697c9850b565e0fd86f92f7526fc6eded&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075465174724679/Globo.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]NOTICIAS</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | INFANTIS</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158542636727156746/NOTICIAS.m3u?ex=651ca069&is=651b4ee9&hm=0a0e34c1b47c5170fdd2232d49a1a040fd83f0ee5626adfefddf5d79a2e7470c&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075563120103424/Infantis.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]PARAMOUT+</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | MUSICA</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158542637066891294/PARAMOUNT.m3u?ex=651ca069&is=651b4ee9&hm=24c79b7caebcb5d7be7bff401e8e94790a3b3ccfa6a8052e26bbd6670b630590&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075563438878740/musica.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]PPV</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | NOTICIAS</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158542637364674640/PPV.m3u?ex=651ca069&is=651b4ee9&hm=c4f7125bdc100660463920d0e230000a0268e0a978881ce6560caf0b162fdff7&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075563757633566/noticias.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]PREMIERE</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | REALITY</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158542637654098010/PREMIERE.m3u?ex=651ca069&is=651b4ee9&hm=b81bdd089fe5eda39c0bb391306fcfe83d437315939f01132722887121b60b74&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075564021878825/reality.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]GLOBO</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | RECORD</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158542638253879480/GLOBO.m3u?ex=651ca069&is=651b4ee9&hm=2491b5cb7eb359d1e70cab42bc86dd931f0a9629813f2de9e6a77e563f543363&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075564319682641/record.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]HBO MAX</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | REDE HBO</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158542638555856926/HBO_MAX.m3u?ex=651ca069&is=651b4ee9&hm=411c5d488160affb9edeb36785ded5ee3b8af11019fcd1b0ce31a55665dad379&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075565301149736/redeHBO.m3u</externallink>
     </channel>
 
     <channel>
-        <name>[COLOR lime]●[/COLOR]HBO</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | REDE PREMIERE</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158542638895611966/HBO.m3u?ex=651ca069&is=651b4ee9&hm=0f68b23efb7e7696eaf936c5f161e23f762f1f2bd78af8b82567a00f979e6d9d&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075564625854544/rede_premierey.m3u</externallink>
     </channel>
 	
 		<channel>
-        <name>[COLOR lime]●[/COLOR]INFANTIS</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | REDE TELECINE</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158542639193403452/INFANTIS.m3u?ex=651ca069&is=651b4ee9&hm=97e4779bc936f98e8284145e6a6d58a96c0d9a7e24ce2e15dee494778cbe55ce&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075564906876978/rede_telecine.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]LIGA FUTSAL</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | RELIGIOSOS</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158542639533146173/LIGA_FUTSAL.m3u?ex=651ca069&is=651b4ee9&hm=7d5d44eacacbc2a57b88262b9e211d414ac8a84f21f9c9d65ea1b1ecbdff25e7&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075565569572954/religiosos.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]NBA LEAGUE PASS</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | SBT</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158542712442716241/NBA_LEAGUE_PASS.m3u?ex=651ca07b&is=651b4efb&hm=72765bdeaa8c3d3897c50e989f1a9dc3ecb6087fe645e30fbf379d863c7b6627&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075565984813066/sbt.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]NOTICIAS</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | SPORTV</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158542712740519996/NOTICIAS.m3u?ex=651ca07b&is=651b4efb&hm=9cfef83ac1bbe7ae9dc7dbbd3e2c65c281456d7b1b9f215622e23d6bbcfec0b8&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075592144703620/sportv.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]PARAMOUNT</name>
+        <name>[COLOR lime]●[/COLOR]CANAIS | VARIEDADES</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158542713076072478/PARAMOUNT.m3u?ex=651ca07b&is=651b4efb&hm=59327de24e5c8bff0460962aa2838b481307a2e852407319d37f71ef83adae96&</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175075592459255878/variedades.m3u</externallink>
     </channel>
 	
-	<channel>
-        <name>[COLOR lime]●[/COLOR]PPV</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158542713449349120/PPV.m3u?ex=651ca07b&is=651b4efb&hm=dd8d496b3a4e7b5a8e453bf6b7b7c1ae2182f77e30426187b45b07e8112e0192&</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]●[/COLOR]PREMIERE</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158542713822650368/PREMIERE.m3u?ex=651ca07b&is=651b4efb&hm=706806fa93734872c5206c1ac3ead03b8c0d200ab639e6ed005d76e4c27f0cbd&</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]●[/COLOR]SPORTV</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158542714128842823/SPORTV.m3u?ex=651ca07b&is=651b4efb&hm=ba556223d2866e860d1d78fc40174eca3a1ac3045ba0c4ba493d028ab6639121&</externallink>
-    </channel>
-
-    <channel>
-        <name>[COLOR lime]●[/COLOR]STAR</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158542714451787888/STAR.m3u?ex=651ca07b&is=651b4efb&hm=c50e4f5a2f144602397e7dc139ac1051dd3f1a67f069d5c5f778770ad24767cf&</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]●[/COLOR]VARIEDADES</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1158542714783145985/VARIEDADES.m3u?ex=651ca07b&is=651b4efb&hm=272f046c6b8d2cfde26ab7497b6729307a2a09884de404378f8464d7bab0190d&</externallink>
-    </channel>
 	
 </channels>	
