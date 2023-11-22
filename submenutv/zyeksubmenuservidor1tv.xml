@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <items>
-
+<epg>http://mepg.ddns.me/epg.xml</epg>
 <item>
 <title>DISCOVERY CHANNEL HD</title>
 <link>http://7go.xyz:8080/live/2AmUouCm/asdurioe8483/18823.m3u8</link>
@@ -10,9 +10,6 @@
 <item>
 <title>DISCOVERY THEATER HD</title>
 <link>http://7go.xyz:8080/live/2AmUouCm/asdurioe8483/22510.m3u8</link>
-<epg>
-<epg_url>http://mepg.ddns.me/epg.xml</epg_url>
-</epg>
 </item>
 
 </items>
