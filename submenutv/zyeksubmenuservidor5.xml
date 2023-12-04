@@ -2,8 +2,8 @@
 		<title>[B]Servidor TV 5[/B]</title>
 		<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/91/08/28/20128492.jpg</thumbnail>
 		<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
-		<link>https://cdn.discordapp.com/attachments/1151169847762358342/1180560402812244189/abertos.m3u</link>
-	        <link>https://cdn.discordapp.com/attachments/1151169847762358342/1180560403114238052/documentarios.m3u</link>
-	        <link>https://cdn.discordapp.com/attachments/1151169847762358342/1180560403474960454/espn.m3u</link>
+		<link>https://cdn.discordapp.com/attachments/1151169847762358342/1180560402812244189/abertos.m3u$nome=[B]abertos[/B]</link>
+	        <link>https://cdn.discordapp.com/attachments/1151169847762358342/1180560403114238052/documentarios.m3u$nome=[B]documentarios[/B]</link>
+	        <link>https://cdn.discordapp.com/attachments/1151169847762358342/1180560403474960454/espn.m3u$nome=[B]espn[/B]</link>
 		<info>S</info>
 	</item>
