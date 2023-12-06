@@ -1,46 +1,41 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items>
+<channels>
+	<!-- opicional -->  
+	<channel>
+  <epg_url>http://mepg.ddns.me/epg.xml</epg_url>
+        <name>DISCOVERY THEATER SD</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenudesenhoslink/pack%20desenhos%20torrents.xml</externallink>
+    </channel>
+	
+    <channel>
+     <epg_regex>http://mepg.ddns.me/epg.xml</epg_regex>
+        <name>[COLOR lime]�[/COLOR]Desenhos 24Horas</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1175209639122583672/24_HORAS_INFANTIS.m3u</externallink>
+    </channel>
+	
+	<channel>
+  <epg>http://mepg.ddns.me/epg.xml</epg>
+        <name>[COLOR lime]�[/COLOR]Acervo R.O</name>
+        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
+        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
+		<info>Este acervo é de um ajudador do Cine Dragon</info>
+		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/desenhos/painel%20de%20categorias%20desenhos.xml</externallink>
+    </channel>
+	
+	<channel>
+  <epg></epg>
+        <name>[COLOR lime]�[/COLOR]101 dalmatas</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenudesenhoslink/dalmatas.xml</externallink>
+    </channel>
+	
 
 
-<item>
-<title>SETE HOMENS E UM DESTINO (2016) (1080p) </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:t55xxv5lcstfjcwz2izvdnjwr2rss5o3&dn=Sete%20Homens%20e%20um%20Destino%202016%20%5B1080p%5D%20WWW.BLUDV.COM&xl=2939457884&fc=5</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</thumbnail>
-<genre>Mistério | Suspense | Terror</genre>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</fanart>
-<info>Com a cidade de Rose Creek sob o cruel domínio do industrial Bartholomew Bogue, a população desesperada contrata a proteção de sete marginais, caçadores de prémios, jogadores e pistoleiros a soldo: Sam Chisolm, Josh Faraday, Goodnight Robicheaux, Jack Horne, Billy Rocks, Vasquez e Red Harvest. Enquanto preparam a cidade para o confronto violento que sabem estar a aproximar-se, os sete mercenários acabam a lutar por mais do que apenas dinheiro.</info>
-</item>
-
-<item>
-<title>DISCOVERY CHANNEL HD<epg_url>http://mepg.ddns.me/epg.xml</epg_url></title>
-<link>http://liontv.me:80/mgfba4b/mgf239161/18</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</thumbnail>
-<genre>Mistério | Suspense | Terror</genre>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</fanart>
-<info>Com a cidade de Rose Creek sob o cruel domínio do industrial Bartholomew Bogue, a população desesperada contrata a proteção de sete marginais, caçadores de prémios, jogadores e pistoleiros a soldo: Sam Chisolm, Josh Faraday, Goodnight Robicheaux, Jack Horne, Billy Rocks, Vasquez e Red Harvest. Enquanto preparam a cidade para o confronto violento que sabem estar a aproximar-se, os sete mercenários acabam a lutar por mais do que apenas dinheiro.</info>
-</item>
-
- <item>
-<epg_url>http://mepg.ddns.me/epg.xml</epg_url>
-<title>DISCOVERY CHANNEL HD</title>
-<link>http://liontv.me:80/mgfba4b/mgf239161/18</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</thumbnail>
-<genre>Mistério | Suspense | Terror</genre>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</fanart>
-<info>Com a cidade de Rose Creek sob o cruel domínio do industrial Bartholomew Bogue, a população desesperada contrata a proteção de sete marginais, caçadores de prémios, jogadores e pistoleiros a soldo: Sam Chisolm, Josh Faraday, Goodnight Robicheaux, Jack Horne, Billy Rocks, Vasquez e Red Harvest. Enquanto preparam a cidade para o confronto violento que sabem estar a aproximar-se, os sete mercenários acabam a lutar por mais do que apenas dinheiro.</info>
-</item>
-
-   <item>
-<epg>http://mepg.ddns.me/epg.xml</epg>
-<title>DISCOVERY CHANNEL HD</title>
-<link>http://liontv.me:80/mgfba4b/mgf239161/18</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</thumbnail>
-<genre>Mistério | Suspense | Terror</genre>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</fanart>
-<info>Com a cidade de Rose Creek sob o cruel domínio do industrial Bartholomew Bogue, a população desesperada contrata a proteção de sete marginais, caçadores de prémios, jogadores e pistoleiros a soldo: Sam Chisolm, Josh Faraday, Goodnight Robicheaux, Jack Horne, Billy Rocks, Vasquez e Red Harvest. Enquanto preparam a cidade para o confronto violento que sabem estar a aproximar-se, os sete mercenários acabam a lutar por mais do que apenas dinheiro.</info>
-</item>
-
-
-
-
-</items>
+</channels>	
