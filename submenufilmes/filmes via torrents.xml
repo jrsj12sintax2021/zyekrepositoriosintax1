@@ -1,7 +1,7 @@
 <channels>
 	<!-- opicional -->  
 	<channel>
-  <epg_url>http://mepg.ddns.me/epg.xml</epg_url>
+  <epgurl>http://mepg.ddns.me/epg.xml</epgurl>
         <name>DISCOVERY THEATER SD</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
@@ -10,7 +10,7 @@
     </channel>
 	
     <channel>
-     <epg_regex>http://mepg.ddns.me/epg.xml</epg_regex>
+     <epg regex>http://mepg.ddns.me/epg.xml</epg regex>
         <name>[COLOR lime]�[/COLOR]Desenhos 24Horas</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
@@ -19,7 +19,7 @@
     </channel>
 	
 	<channel>
-  <epg>http://mepg.ddns.me/epg.xml</epg>
+  <epg url>http://mepg.ddns.me/epg.xml</epg url>
         <name>[COLOR lime]�[/COLOR]Acervo R.O</name>
         <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
         <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
@@ -28,7 +28,7 @@
     </channel>
 	
 	<channel>
-  <epg></epg>
+  <epgregex>http://mepg.ddns.me/epg.xml</epgregex>
         <name>[COLOR lime]�[/COLOR]101 dalmatas</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
