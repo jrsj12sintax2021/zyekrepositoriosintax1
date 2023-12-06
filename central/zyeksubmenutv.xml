@@ -1,5 +1,13 @@
 <channels>
 	<!-- opicional -->    
+	<channel>
+        <name>[COLOR lime]�[/COLOR]Servidor [COLOR yellow]Pluto TV[/COLOR] leia com atencao do lado [COLOR yellow]Pluto TV[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>Este servidor trava sempre no comercial do pluto congela a imagem fica so o audio quando entrar na propaganda da pluto esperar acabar a propaganda e para e entrar dinovo</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyekservidorplutotv.xml</externallink>
+    </channel>
+	
     <channel>
         <name>[COLOR lime]�[/COLOR]Servidor 1</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
@@ -17,15 +25,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Servidor leia com atencao do lado [COLOR yellow]Pluto TV[/COLOR]</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>Este servidor trava sempre no comercial do pluto congela a imagem fica so o audio quando entrar na propaganda da pluto esperar acabar a propaganda e para e entrar dinovo</info>
-		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyekservidorplutotv.xml</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]�[/COLOR]Servidor 4</name>
+        <name>[COLOR lime]�[/COLOR]Servidor 3</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
@@ -33,7 +33,7 @@
     </channel>
 
     <channel>
-        <name>[COLOR lime]�[/COLOR]Servidor 5</name>
+        <name>[COLOR lime]�[/COLOR]Servidor 4</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
@@ -41,5 +41,13 @@
 		
     </channel>
 	
+	<channel>
+        <name>[COLOR blue]�[/COLOR]Area de Teste [COLOR yellow]Cine drangon[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuservidor5.xml</externallink>
+		
+    </channel>
 	
 </channels>	
