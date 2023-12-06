@@ -12,7 +12,27 @@
 </item>
 
 <item>
-<title>DISCOVERY CHANNEL HD<epg>http://mepg.ddns.me/epg.xml</epg></title>
+<title>DISCOVERY CHANNEL HD<epg_url>http://mepg.ddns.me/epg.xml</epg_url></title>
+<link>http://liontv.me:80/mgfba4b/mgf239161/18</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</thumbnail>
+<genre>Mistério | Suspense | Terror</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</fanart>
+<info>Com a cidade de Rose Creek sob o cruel domínio do industrial Bartholomew Bogue, a população desesperada contrata a proteção de sete marginais, caçadores de prémios, jogadores e pistoleiros a soldo: Sam Chisolm, Josh Faraday, Goodnight Robicheaux, Jack Horne, Billy Rocks, Vasquez e Red Harvest. Enquanto preparam a cidade para o confronto violento que sabem estar a aproximar-se, os sete mercenários acabam a lutar por mais do que apenas dinheiro.</info>
+</item>
+
+ <item>
+<epg_url>http://mepg.ddns.me/epg.xml</epg_url>
+<title>DISCOVERY CHANNEL HD</title>
+<link>http://liontv.me:80/mgfba4b/mgf239161/18</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</thumbnail>
+<genre>Mistério | Suspense | Terror</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</fanart>
+<info>Com a cidade de Rose Creek sob o cruel domínio do industrial Bartholomew Bogue, a população desesperada contrata a proteção de sete marginais, caçadores de prémios, jogadores e pistoleiros a soldo: Sam Chisolm, Josh Faraday, Goodnight Robicheaux, Jack Horne, Billy Rocks, Vasquez e Red Harvest. Enquanto preparam a cidade para o confronto violento que sabem estar a aproximar-se, os sete mercenários acabam a lutar por mais do que apenas dinheiro.</info>
+</item>
+
+   <item>
+<epg>http://mepg.ddns.me/epg.xml</epg>
+<title>DISCOVERY CHANNEL HD</title>
 <link>http://liontv.me:80/mgfba4b/mgf239161/18</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</thumbnail>
 <genre>Mistério | Suspense | Terror</genre>
