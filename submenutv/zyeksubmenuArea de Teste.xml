@@ -1,4 +1,13 @@
-#EXTM3U
+<channel>
+	<name>[COLOR orange]Teste Tv[/COLOR]</name>
+	<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
+	<thumbnail>https://cld.pt/dl/download/c69a2e70-37c8-49cf-b234-1d14a9cf6864/tvonl1_Hp621600.png</thumbnail> 		
+		<item>
+			<title>[COLOR orange]lista 1[/COLOR]</title>
+			<link>-</link>
+			<thumbnail></thumbnail>
+			<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
+			#EXTM3U
 #EXTINF:-1 ,On=>Teste 1
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://main.xplus2-main.xyz:2082/live/Tourobox1-hTyLzkUQpH/9xqT8xwg2y/870.m3u8|User-Agent=FooBar/1.2.3
 #EXTINF:-1 ,On=>Teste 2
@@ -11,3 +20,35 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dra
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=100&url=http://esrv.cc:80/live/sebastiaoo/639442/41542.m3u8|User-Agent=FooBar/1.2.3
 #EXTINF:-1 ,Off=>Teste 6
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://esrv.cc:80/live/sebastiaoo/639442/41542.ts|User-Agent=FooBar/1.2.3
+		</item>
+		
+		<item>
+			<title>[COLOR orange]lista 2[/COLOR]</title>
+			<link>-</link>
+			<thumbnail></thumbnail>
+			<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
+			#EXTM3U
+#EXTINF:-1 ,On=>Teste 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://main.xplus2-main.xyz:2082/live/Tourobox1-hTyLzkUQpH/9xqT8xwg2y/870.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 ,On=>Teste 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://liontv.me:80/live/mgfba4b/mgf239161/18.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 ,On=>Teste 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://joao-1-us.mainbkonline.shop:80/live/082627805564PW/240638614463/12.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 ,On=>Teste 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://tv.com.vc/live/vivian/vivian123/454666.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 ,On=>Teste 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=100&url=http://esrv.cc:80/live/sebastiaoo/639442/41542.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 ,Off=>Teste 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://esrv.cc:80/live/sebastiaoo/639442/41542.ts|User-Agent=FooBar/1.2.3
+		</item>
+			
+
+		<item>
+
+	</channel>	
+	
+	
+		
+	
+
+</channels>
