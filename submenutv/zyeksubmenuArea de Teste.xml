@@ -1,4 +1,6 @@
 <channels>
+
+
 <channel>
 	<name>[COLOR orange]Teste Tv[/COLOR]</name>
 	<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
@@ -8,7 +10,7 @@
 			<link>-</link>
 			<thumbnail></thumbnail>
 			<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
-			#EXTM3U
+			<externallink>#EXTM3U
 #EXTINF:-1 ,On=>Teste 1
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://main.xplus2-main.xyz:2082/live/Tourobox1-hTyLzkUQpH/9xqT8xwg2y/870.m3u8|User-Agent=FooBar/1.2.3
 #EXTINF:-1 ,On=>Teste 2
@@ -20,7 +22,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dra
 #EXTINF:-1 ,On=>Teste 5
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=100&url=http://esrv.cc:80/live/sebastiaoo/639442/41542.m3u8|User-Agent=FooBar/1.2.3
 #EXTINF:-1 ,Off=>Teste 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://esrv.cc:80/live/sebastiaoo/639442/41542.ts|User-Agent=FooBar/1.2.3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://esrv.cc:80/live/sebastiaoo/639442/41542.ts|User-Agent=FooBar/1.2.3</externallink>
 		</item>
 		
 		<item>
@@ -28,7 +30,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dra
 			<link>-</link>
 			<thumbnail></thumbnail>
 			<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
-			#EXTM3U
+			<externallink>#EXTM3U
 #EXTINF:-1 ,On=>Teste 1
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://main.xplus2-main.xyz:2082/live/Tourobox1-hTyLzkUQpH/9xqT8xwg2y/870.m3u8|User-Agent=FooBar/1.2.3
 #EXTINF:-1 ,On=>Teste 2
@@ -40,7 +42,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dra
 #EXTINF:-1 ,On=>Teste 5
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=100&url=http://esrv.cc:80/live/sebastiaoo/639442/41542.m3u8|User-Agent=FooBar/1.2.3
 #EXTINF:-1 ,Off=>Teste 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://esrv.cc:80/live/sebastiaoo/639442/41542.ts|User-Agent=FooBar/1.2.3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://esrv.cc:80/live/sebastiaoo/639442/41542.ts|User-Agent=FooBar/1.2.3</externallink>
 		</item>
 			
 
