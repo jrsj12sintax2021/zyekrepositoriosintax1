@@ -1,13 +1,36 @@
-#EXTM3U
-#EXTINF:-1 ,On=>Teste 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://main.xplus2-main.xyz:2082/live/Tourobox1-hTyLzkUQpH/9xqT8xwg2y/870.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 ,On=>Teste 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://liontv.me:80/live/mgfba4b/mgf239161/18.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 ,On=>Teste 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://joao-1-us.mainbkonline.shop:80/live/082627805564PW/240638614463/12.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 ,On=>Teste 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://tv.com.vc/live/vivian/vivian123/454666.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 ,On=>Teste 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=100&url=http://esrv.cc:80/live/sebastiaoo/639442/41542.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 ,Off=>Teste 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://esrv.cc:80/live/sebastiaoo/639442/41542.ts|User-Agent=FooBar/1.2.3
+<item>
+<title>[B][COLOR lime]DailyBUSCA IPTV[COLOR cyan] Dose[/COLOR][/B]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[B][COLOR lime]Daily[COLOR cyan] COXADose -[COLOR yellow][I] Date Uploaded: [makelist2.param2] [/COLOR][/B][/I]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>https://i.imgur.com/vQlkLtY.png</thumbnail>
+<fanart>https://i.imgur.com/qKiQ0qa.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Daily m3u playlist (.*?)2018]]></expres>
+<page>https://pavandayal.com/</page>
+</regex>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[B][COLOR lime]Daily[COLOR cyan] Dose - [I][COLOR lime][makelist.param1][makelist.param2][/B][/I][/COLOR] </title>
+ <link>NA</link>
+<thumbnail>https://i.imgur.com/vQlkLtY.png</thumbnail>
+<fanart>https://i.imgur.com/qKiQ0qa.jpg</fanart>
+ <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+
+ 
+
+ ]]></listrepeat>
+<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i.imgur.com/vQlkLtY.png</thumbnail>
+<fanart>https://i.imgur.com/qKiQ0qa.jpg</fanart>
+<info></info>
+</item>
