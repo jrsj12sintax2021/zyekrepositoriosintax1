@@ -1,51 +1,643 @@
+
 <channels>
-
-
-<channel>
-	<name>[COLOR orange]Teste Tv[/COLOR]</name>
+    <channels_info> <!-- this is opitonal -->
+      <title>Padron-List</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>News</genre>
+      <thumbnail></thumbnail>
+      <credits></credits>
+      </channels_info>
+	<channel>
+	<name>[COLOR orange]Canais de Tv - Brasil[/COLOR]</name>
 	<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
-	<thumbnail>https://cld.pt/dl/download/c69a2e70-37c8-49cf-b234-1d14a9cf6864/tvonl1_Hp621600.png</thumbnail> 		
-		<item>
-			<title>[COLOR orange]lista 1[/COLOR]</title>
-			<link>-</link>
+	<thumbnail>https://cld.pt/dl/download/c69a2e70-37c8-49cf-b234-1d14a9cf6864/tvonl1_Hp621600.png</thumbnail>
+<title>America TV HD - Argentina</title>
+<link>$doregex[url]</link>
+<regex>
+    <name>url</name>
+    <expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/')</expres>
+    <page></page>
+</regex>
+<regex>
+    <name>jsonurl</name>
+    <expres>hlsvp":"(.*?)"</expres>
+    <page>https://www.youtube.com/watch?v=FtD4Wgh97MA</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Capricho Ao Vivo</title>
+<link>$doregex[url]</link>
+<regex>
+    <name>url</name>
+    <expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/')</expres>
+    <page></page>
+</regex>
+<regex>
+    <name>jsonurl</name>
+    <expres>hlsvp":"(.*?)"</expres>
+    <page>https://www.youtube.com/watch?v=PXrnbNBuKNc</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Tv Justiça</title>
+<link>$doregex[url]</link>
+<regex>
+    <name>url</name>
+    <expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/')</expres>
+    <page></page>
+</regex>
+<regex>
+    <name>jsonurl</name>
+    <expres>hlsvp":"(.*?)"</expres>
+    <page>https://www.youtube.com/watch?v=5bmTFkxT3Bw</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+				<item>
+			<title>[COLOR orange]foxlife[/COLOR]</title>
+			<sportsdevil>http://www.estadiofutebol.com/gratis/sporttv</sportsdevil>
+			<referer>http://www.estadiofutebol.com/gratis/sporttv</referer>
+			<fanart></fanart>
 			<thumbnail></thumbnail>
-			<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
-			<externallink>#EXTM3U
-#EXTINF:-1 ,On=>Teste 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://main.xplus2-main.xyz:2082/live/Tourobox1-hTyLzkUQpH/9xqT8xwg2y/870.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 ,On=>Teste 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://liontv.me:80/live/mgfba4b/mgf239161/18.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 ,On=>Teste 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://joao-1-us.mainbkonline.shop:80/live/082627805564PW/240638614463/12.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 ,On=>Teste 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://tv.com.vc/live/vivian/vivian123/454666.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 ,On=>Teste 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=100&url=http://esrv.cc:80/live/sebastiaoo/639442/41542.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 ,Off=>Teste 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://esrv.cc:80/live/sebastiaoo/639442/41542.ts|User-Agent=FooBar/1.2.3</externallink>
 		</item>
 		
 		<item>
-			<title>[COLOR orange]lista 2[/COLOR]</title>
+			<title>[COLOR orange]filmesonlinehd1TvCulturaHD[/COLOR]</title>
+			<sportsdevil>http://www.compartilhabrasil.org//embed/3153436597/</sportsdevil>
+			<referer>http://www.filmesonlinehd1.com/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/4e82156544ab242a3e282063d80689bd.png</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/4e82156544ab242a3e282063d80689bd.png</thumbnail>
+		</item>
+		
+		
+		<item>
+			<title>[COLOR orange]Camara Tv[/COLOR]</title>
+			<sportsdevil>http://www2.camara.leg.br/camaranoticias/tv/embedAoVivo.html</sportsdevil>
+			<referer>http://www2.camara.leg.br/</referer>
+			<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyeklRa99RGVXdXNdgUM8_bHcHJRNEjIhff5kpR0zJKIWwZuNn</fanart>
+			<thumbnail>https://farm6.staticflickr.com/5299/5479834179_28b3cf4f8c_m.jpg</thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange]SBT PERNANBUCO[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-ao-vivo/tv-jornal-sbt-pe</sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/4e82156544ab242a3e282063d80689bd.png</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/4e82156544ab242a3e282063d80689bd.png</thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange]TV DIARIO[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-ao-vivo/tv-diario</sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/4e82156544ab242a3e282063d80689bd.png</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/4e82156544ab242a3e282063d80689bd.png</thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange]SBT INTERIOR PAULISTA[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-ao-vivo/sbt-interior-sp</sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/4e82156544ab242a3e282063d80689bd.png</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/4e82156544ab242a3e282063d80689bd.png</thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange]SBT TV Serra Dourada (SBT GO)[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-ao-vivo/tv-serra-dourada-sbt-go</sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/4e82156544ab242a3e282063d80689bd.png</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/4e82156544ab242a3e282063d80689bd.png</thumbnail>
+		</item>
+		
+		
+		<item>
+			<title>[COLOR orange]TV Cidade Verde (SBT PI)[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-ao-vivo/tv-cidade-verde-sbt-pi</sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/4e82156544ab242a3e282063d80689bd.png</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/4e82156544ab242a3e282063d80689bd.png</thumbnail>
+		</item>
+		
+		
+		<item>
+			<title>[COLOR orange]Tv Centro Oeste (SBT MT)[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-ao-vivo/tv-centro-oeste-sbt-mt</sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/4e82156544ab242a3e282063d80689bd.png</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/4e82156544ab242a3e282063d80689bd.png</thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange]All Tv[/COLOR]</title>
+			<sportsdevil>http://alltv.com.br/?p=188</sportsdevil>
+			<referer>http://alltv.com.br/</referer>
+			<fanart>http://alltv.com.br/wp-content/uploads/2015/08/alltv-weblogo-transparent-172x78.png</fanart>
+			<thumbnail>http://alltv.com.br/wp-content/uploads/2015/08/alltv-weblogo-transparent-172x78.png</thumbnail>
+		</item>
+		
+	
+		
+		<item>
+			<title>[COLOR orange]TV Cultura[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-online/tv-cultura</sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/22569837b28e1133dd753408311d14ef.jpg</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/22569837b28e1133dd753408311d14ef.jpg</thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange]TV Gazeta (Rede Gazeta)[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-online/tv-gazeta</sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/28218e2ffd9723b8f74fb0e0d0664d75.jpg</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/28218e2ffd9723b8f74fb0e0d0664d75.jpg</thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange]UCS tv - Futura[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-online/ucs-tv-futura</sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/ab3e6657ec8bcf616ef67496832c05c9.jpg</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/ab3e6657ec8bcf616ef67496832c05c9.jpg</thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange]TVE BA - Salvador[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-online/tve</sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/0c7847afd46b2ecb00a14198a16ba142.png</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/0c7847afd46b2ecb00a14198a16ba142.png</thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange]TV Mundo Maior[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-online/tv-mundo-maior</sportsdevil>
+			<referer>www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/e67e4b929f88213a8c5b2244696d64c4.jpg</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/e67e4b929f88213a8c5b2244696d64c4.jpg</thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange]Record News[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-online/record-news</sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/33004b0a1cb3a43b7a1e6b1aef92c128.png</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/33004b0a1cb3a43b7a1e6b1aef92c128.png</thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange]TV Universal[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-online/iurd-tv</sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/c3d5c184450857c9f064bd7b608e9fb8.jpg</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/c3d5c184450857c9f064bd7b608e9fb8.jpg</thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange]TV Igreja Mundial do Poder de Deus[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-online/tv-igreja-mundial-do-poder-de-deus</sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg</thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange]ADinet TV[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-online/adinet-tv</sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/d2bd4a0c4dc50a1cfb9dc3783d6a0550.jpg</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/d2bd4a0c4dc50a1cfb9dc3783d6a0550.jpg</thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange]Fonte TV[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-online/fonte-tv</sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/6d2b0b1789d4c23c4d1e12cd2670b136.png</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/6d2b0b1789d4c23c4d1e12cd2670b136.png</thumbnail>
+		</item>
+		
+		
+		
+		<item>
+			<title>[COLOR orange]Rede TV[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-online/rede-tv</sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/b9967b293f4862a6365c6e87009e6efd.jpg</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/b9967b293f4862a6365c6e87009e6efd.jpg</thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange]Rede Vida[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-online/rede-vida</sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/a0d63881986e2d53734fb0660594b420.png</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/a0d63881986e2d53734fb0660594b420.png</thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange]Record PR / RIC TV[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-online/record-pr-ric-tv</sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/f30176f7a5b65735c139a34b15fb66b7.png</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/f30176f7a5b65735c139a34b15fb66b7.png</thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange]Record SC / RIC TV[/COLOR]</title>
+			<sportsdevil>http://www.cxtv.com.br/tv-online/record-sc-ric-tv</sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/764031d1568d2ac485878a21c9b0f6d8.png</fanart>
+			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/764031d1568d2ac485878a21c9b0f6d8.png</thumbnail>
+		</item>
+		
+			
+		
+		<item>
+			<title>[COLOR orange][/COLOR]</title>
+			<sportsdevil></sportsdevil>
+			<referer></referer>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange][/COLOR]</title>
+			<sportsdevil></sportsdevil>
+			<referer></referer>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange][/COLOR]</title>
+			<sportsdevil></sportsdevil>
+			<referer></referer>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange][/COLOR]</title>
+			<sportsdevil></sportsdevil>
+			<referer></referer>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+		</item>
+		
+		<item>
+			<title>[COLOR orange][/COLOR]</title>
+			<sportsdevil></sportsdevil>
+			<referer>http://www.cxtv.com.br/</referer>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+		</item>
+		
+		
+		
+		<item>
+			<title>[COLOR orange]Band[/COLOR]</title>
+			<sportsdevil>http://kodionline.tk/canais/bandtv.html</sportsdevil>
+			<referer>http://kodionline.tk/</referer>
+			<fanart>http://www.tv-ao-vivo.net/Vip/image/band.jpg</fanart>
+			<thumbnail>http://www.tv-ao-vivo.net/Vip/image/band.jpg</thumbnail>
+		</item>
+		
+				
+		<item>
+			<title>[COLOR orange]TVCOM[/COLOR]</title>
+			<sportsdevil>http://aovivo.clicrbs.com.br/sc/tvcom/popup.html</sportsdevil>
+			<referer>http://aovivo.clicrbs.com.br/</referer>
+			<fanart>http://supertela.tv/wp-content/uploads/2015/05/tvcom-130x130.jpg</fanart>
+			<thumbnail>http://supertela.tv/wp-content/uploads/2015/05/tvcom-130x130.jpg</thumbnail>
+		</item>
+		
+				
+		<item>
+			<title>[COLOR orange]Tv Brasil[/COLOR]</title>
+			<sportsdevil>http://kodionline.tk/canais/tvbrasil.html</sportsdevil>
+			<referer>http://kodionline.tk/</referer>
+			<fanart>https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png</fanart>
+			<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png</thumbnail>
+		</item>
+		
+		
+	</channel>	
+	
+	
+	<channel>
+		<name>[COLOR orange]Canais 24 horas (séries e desenhos) [/COLOR]</name>
+		<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
+		<thumbnail>https://cld.pt/dl/download/c69a2e70-37c8-49cf-b234-1d14a9cf6864/tvonl1_Hp621600.png</thumbnail> 
+				<item>
+					<title>[B][COLOR orange]Canais 24 horas (séries e desenhos) [/COLOR][/B]</title>
+					<link>http://ignorame</link>
+					<thumbnail>https://cld.pt/dl/download/c69a2e70-37c8-49cf-b234-1d14a9cf6864/tvonl1_Hp621600.png</thumbnail>
+					<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
+					<externallink>https://cld.pt/dl/download/789654ae-7a05-494a-b7f5-47a34f8de07c/Canais%2024%20horas.xml</externallink>
+				</item>
+	</channel>
+		
+		
+	<channel>
+	<name>[COLOR orange]Canais de Esportes Europeu[/COLOR]</name>
+	<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
+	<thumbnail>https://cld.pt/dl/download/c69a2e70-37c8-49cf-b234-1d14a9cf6864/tvonl1_Hp621600.png</thumbnail>
+		<item>
+			<title>[B][COLOR orange]Canais 01 [/COLOR][/B]</title>
+			<link>http://ignorame</link>
+			<thumbnail>https://cld.pt/dl/download/c69a2e70-37c8-49cf-b234-1d14a9cf6864/tvonl1_Hp621600.png</thumbnail>
+			<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
+			<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/sports.m3u</externallink>
+		</item>
+
+	
+	</channel>	
+	<channel>
+	<name>[COLOR orange]Canais de Portugal 1[/COLOR]</name>
+	<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
+	<thumbnail>https://cld.pt/dl/download/c69a2e70-37c8-49cf-b234-1d14a9cf6864/tvonl1_Hp621600.png</thumbnail>
+		<item>
+			<title>[B][COLOR orange]Canais 01 [/COLOR][/B]</title>
+			<link>http://ignorame</link>
+			<thumbnail>https://cld.pt/dl/download/c69a2e70-37c8-49cf-b234-1d14a9cf6864/tvonl1_Hp621600.png</thumbnail>
+			<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
+			<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/pt.m3u</externallink>
+		</item>
+
+	
+	</channel>	
+	
+	
+	
+	<channel>
+	<name>[COLOR orange]Canais de Portugal 2[/COLOR]</name>
+	<genre>TV Aberta</genre>
+		<thumbnail>https://cld.pt/dl/download/c69a2e70-37c8-49cf-b234-1d14a9cf6864/tvonl1_Hp621600.png</thumbnail>
+		<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
+			<subitems>
+				<item>
+					<title>[COLOR blue]Opção 1[/COLOR]</title>
+					<link>-</link>
+					<thumbnail>http://4.bp.blogspot.com/-CnSjDbGmxWc/UoP528lOYRI/AAAAAAAABJQ/abXIcdWgmEQ/s1600/cviv.jpg</thumbnail>
+					<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
+					<externallink>http://pastebin.com/raw/dNBcSxAm</externallink>
+				</item>
+			</subitems>
+			<subitem>
+				<item>
+					<title>RTP-1</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/rtp1</sportsdevil>
+					<referer>http://www.rtp.pt/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtp1.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+				
+				<item>
+					<title>RTP-2</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/rtp2</sportsdevil>
+					<referer>http://www.rtp.pt/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtp2.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+				
+				<item>
+					<title>RTP-3</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtp3.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item> 
+				
+				<item>
+					<title>RTP Memoria</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/rtpmemoria</sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpmemoria.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+				
+				
+				<item>
+					<title>RTP Madeira</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/rtpmadeira</sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpmadeira.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+				
+				<item>
+					<title>RTP Açores</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/rtpacores</sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpacores.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+				
+				<item>
+					<title>RTP Africa</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/rtpafrica</sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpafrica.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+				
+				<item>
+					<title>RTP Internacional</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/rtpinternacional</sportsdevil>
+					<referer></referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+				
+				
+				<item>
+					<title>RTP N</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/rtpinformacao</sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail>http://logos.streamsites.eu/2389_rtp-n_overview.png</thumbnail>
+				</item>
+					<item>
+					<title>Benfica Tv</title>
+					<sportsdevil>http://reformadostv.comunidades.net/index.php</sportsdevil>
+					<referer>http://www.tvportugalhd.eu/</referer>
+					<thumbnail>https://lh5.googleusercontent.com/-hSjZUW0BGK0/VIGdMhNJi6I/AAAAAAAAAAs/YbGQ91bqdoM/btvhd.png</thumbnail>
+				</item>
+				
+				
+				
+				<item>
+					<title>AXN</title>
+					<sportsdevil>http://www.tvportugalhd.eu/p/axn.html</sportsdevil>
+					<referer>http://www.tvportugalhd.eu/</referer>
+					<thumbnail>https://lh4.googleusercontent.com/-3WZK7LxpV58/VIGdMbr1x9I/AAAAAAAAAA4/TuIYkkgLLwU/axn.png</thumbnail>
+				</item>
+				
+				<item>
+					<title>SIC Mulher</title>
+					<sportsdevil>http://mytvfree.me/sic-mulher</sportsdevil>
+					<referer>http://mytvfree.me/</referer>
+					<thumbnail></thumbnail>
+				</item>
+				
+				
+				
+				<item>
+					<title>[COLOR orange]Rádios[/COLOR]</title>
+					<sportsdevil>-</sportsdevil>
+					<referer>-</referer>
+					<thumbnail>https://cld.pt/dl/download/2bdc7520-1d05-4526-8584-6eebabef5364/radio.png</thumbnail>
+				</item>
+				
+					
+				<item>
+					<title>Antena 1</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/antena1</sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/antena1.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+				
+				
+				
+				<item>
+					<title>Antena 2</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/antena2</sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/antena2.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+				
+				<item>
+					<title>Antena 3</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/antena3</sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/antena3.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+				
+				<item>
+					<title></title>
+					<sportsdevil></sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail></thumbnail>
+				</item>
+				
+				<item>
+					<title>RDP Internacional</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/rdpinternacional</sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rdpinternacional.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+				
+				<item>
+					<title>RDP África</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/rdpafrica</sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rdpafrica.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+				
+				<item>
+					<title>Rádio LUSITÂNIA</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/radiolusitania</sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/radiolusitania.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+				
+				<item>
+					<title>Antena 3 Rock rtp pt</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/antena3rock</sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/antena3rock.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+				
+				<item>
+					<title>Antena 3 Dance</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/antena3dance</sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/antena3dance.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+				
+				<item>
+					<title>Antena 1 Fado</title>
+					<sportsdevil></sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/antena1fado.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+				
+				<item>
+					<title>Antena 2 Opera</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/antena2opera</sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/antena2opera.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+				<item>
+					<title>Antena 1 Vida</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/antena1vida</sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/antena1vida.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+				<item>
+					<title>Radio 80</title>
+					<sportsdevil>http://www.rtp.pt/play/direto/radio80</sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/80anos.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+				
+				<item>
+					<title>RDP Açores - Antena 1 </title>
+					<sportsdevil>http://www.rtp.pt/play/direto/antena1acores</sportsdevil>
+					<referer>http://www.rtp.pt/play/</referer>
+					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rdpacoresantena1.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
+				</item>
+			</subitems>
+		</subchannel>
+	</channel>		
+		
+	<channel>
+	<name>[COLOR orange]Canais em Espanhol[/COLOR]</name>
+	<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
+	<thumbnail>https://cld.pt/dl/download/c69a2e70-37c8-49cf-b234-1d14a9cf6864/tvonl1_Hp621600.png</thumbnail> 		
+		<item>
+			<title>[COLOR orange]Canales Documentales[/COLOR]</title>
 			<link>-</link>
 			<thumbnail></thumbnail>
 			<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
-			<externallink>#EXTM3U
-#EXTINF:-1 ,On=>Teste 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://main.xplus2-main.xyz:2082/live/Tourobox1-hTyLzkUQpH/9xqT8xwg2y/870.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 ,On=>Teste 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://liontv.me:80/live/mgfba4b/mgf239161/18.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 ,On=>Teste 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://joao-1-us.mainbkonline.shop:80/live/082627805564PW/240638614463/12.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 ,On=>Teste 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://tv.com.vc/live/vivian/vivian123/454666.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 ,On=>Teste 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=100&url=http://esrv.cc:80/live/sebastiaoo/639442/41542.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 ,Off=>Teste 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://esrv.cc:80/live/sebastiaoo/639442/41542.ts|User-Agent=FooBar/1.2.3</externallink>
+			<externallink>https://cld.pt/dl/download/fc3a4799-38e3-4aef-83f9-a767749462e2/canales%20documentales.xml</externallink>
+		</item>
+		
+		<item>
+			<title>[COLOR orange]Canales de Filmes[/COLOR]</title>
+			<link>-</link>
+			<thumbnail></thumbnail>
+			<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
+			<externallink>https://cld.pt/dl/download/7a231bd2-92d0-470a-b629-c064e8c62f60/peliculas.m3u</externallink>
 		</item>
 			
-
+		<item>
+			<title>[COLOR orange]Canales Infantis[/COLOR]</title>
+			<link>-</link>
+			<thumbnail></thumbnail>
+			<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
+			<externallink>https://cld.pt/dl/download/ff6b2898-bdf2-449a-9652-a8963220052e/pinfantiles.m3u</externallink>
+		</item>
+		
+		<item>
+			<title>[COLOR orange]Canales de Tv[/COLOR]</title>
+			<link>-</link>
+			<thumbnail></thumbnail>
+			<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
+			<externallink>https://cld.pt/dl/download/d9f41be3-ca5a-49cb-a9be-acca864b4fe0/Espanhois.m3u</externallink>
+		</item>
+		https://cld.pt/dl/download/ddb8d05c-8a75-4033-8f73-0791e83b46ff/Canales%20de%20tv.xml
+		<item>
+			<title>[COLOR orange]Canales Top HD[/COLOR]</title>
+			<link>-</link>
+			<thumbnail></thumbnail>
+			<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
+			<externallink>https://cld.pt/dl/download/2f262d23-663f-49ea-86dc-026c5cc20a1a/ListaHa.m3u</externallink>
+		</item>
+		
+		<item>
+			<title>[COLOR red]Area de testes[/COLOR]</title>
+			<link>-</link>
+			<thumbnail>http://4.bp.blogspot.com/-CnSjDbGmxWc/UoP528lOYRI/AAAAAAAABJQ/abXIcdWgmEQ/s1600/cviv.jpg</thumbnail>
+			<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
+			<externallink>https://cld.pt/dl/download/956464af-4c89-4997-ac3e-857fee987b23/Cine%20en%20vivo.xml</externallink>
+		</item>
 		<item>
 
 	</channel>	
@@ -55,3 +647,8 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dra
 	
 
 </channels>
+
+        
+
+
+   
