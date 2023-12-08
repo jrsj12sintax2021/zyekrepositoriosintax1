@@ -1,65 +1,15 @@
-<channels><!-- esse comando vai ter 1 so no arquivo inteiro -->
-
-    <channel>
-	
-        <name>[COLOR lime]�[/COLOR]Planet Earth III - 1ª Temporada Legendada 2023[COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kYf47t1tcSmhH714NTvSS8udIC9.jpg</thumbnail>
-        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kYf47t1tcSmhH714NTvSS8udIC9.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		
-		   <item>
-            
-			 <title>Planet Earth III - 1ª Temporada Legendada 2023 / 07º EPISÓDIO</title>
-             <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc714d38db828f10d86cf72a7fdb4361a191d6e0&dn=VAMOSTORRENT.COM.-LEGENDADO-.Planet.Earth.III.S01E07.Human.1080p.iP.WEB-DL.AAC2.0.H.264-NTb[TGx]&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-             <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/plu6yQczBTiZCRdUEW63heSdJHK.jpg</thumbnail>
-             <genre>Documentario</genre>
-             <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/plu6yQczBTiZCRdUEW63heSdJHK.jpg</fanart>
-             <info>Viajando até aos confins do nosso planeta, esta série em oito partes acompanha algumas das espécies mais incríveis do mundo, contando histórias extraordinárias que são dramáticas, emocionantes, engraçadas e por vezes comoventes, mas sempre cheias de esperança.</info>
-           
-		   </item>
-    
-	</channel>
-	
-	<channel>
-	
-        <name>[COLOR lime]�[/COLOR]Origem - 2ª Temporada Dublada / Dual Áudio 2023[COLOR yellow]torrent[/COLOR]</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kYf47t1tcSmhH714NTvSS8udIC9.jpg</thumbnail>
-        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kYf47t1tcSmhH714NTvSS8udIC9.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-	<!-- inserir as series dentro dess comando -->
-	
-	<item>
-<title>Slow Horses - 3ª Temporada Legendada 2023 / 01º EPISÓDIO </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d7567dd045ad5d326c0e8af8c0b1d61adb6362c&dn=VAMOSTORRENT.COM.-LEGENDADO-.Slow.Horses.S03E01.1080p.ATVP.WEB-DL.DDPA5.1.H.264-FLUX[TGx]&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qgYcnBxHDu0FDZhZNas2gYlfioF.jpg</thumbnail>
-<genre>Drama / Suspense</genre>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qgYcnBxHDu0FDZhZNas2gYlfioF.jpg</fanart>
-<info>Terceira temporada completa da série. Uma ligação romântica em Istambul ameaça expor um segredo enterrado do MI5 em Londres. Quando Jackson Lamb e sua equipe de desajustados são arrastados para a luta, eles se vêem envolvidos em uma conspiração que ameaça o futuro não apenas de Slough House, mas do próprio MI5.</info>
-</item>
-
-<item>
-<title>Slow Horses - 3ª Temporada Legendada 2023 / 02º EPISÓDIO </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99cd47dbec8e66a78f18ff7f53f850c4dd4b2eac&dn=VAMOSTORRENT.COM.-LEGENDADO-.Slow.Horses.S03E02.1080p.WEB.H264-GloriousMongoose[TGx]&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qgYcnBxHDu0FDZhZNas2gYlfioF.jpg</thumbnail>
-<genre>Drama / Suspense</genre>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qgYcnBxHDu0FDZhZNas2gYlfioF.jpg</fanart>
-<info>Terceira temporada completa da série. Uma ligação romântica em Istambul ameaça expor um segredo enterrado do MI5 em Londres. Quando Jackson Lamb e sua equipe de desajustados são arrastados para a luta, eles se vêem envolvidos em uma conspiração que ameaça o futuro não apenas de Slough House, mas do próprio MI5.</info>
-</item>
-
-<item>
-<title>Slow Horses - 3ª Temporada Legendada 2023 / 03º EPISÓDIO </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cc6bf4258ca2727c8f4a1dbca8dac5ba689ed0c&dn=VAMOSTORRENT.COM.-LEGENDADO-.Slow.Horses.S03E03.1080p.WEB.H264-NHTFS[TGx]&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qgYcnBxHDu0FDZhZNas2gYlfioF.jpg</thumbnail>
-<genre>Drama / Suspense</genre>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qgYcnBxHDu0FDZhZNas2gYlfioF.jpg</fanart>
-<info>Terceira temporada completa da série. Uma ligação romântica em Istambul ameaça expor um segredo enterrado do MI5 em Londres. Quando Jackson Lamb e sua equipe de desajustados são arrastados para a luta, eles se vêem envolvidos em uma conspiração que ameaça o futuro não apenas de Slough House, mas do próprio MI5.</info>
-</item>
-    
-	</channel>
-
-
-
-
-
-
-</channels><!-- esse comando vai ter 1 so no arquivo inteiro -->
+#EXTM3U
+#EXTINF:-1 ,On=>Teste 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://main.xplus2-main.xyz:2082/live/Tourobox1-hTyLzkUQpH/9xqT8xwg2y/870.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 ,On=>Teste 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://liontv.me:80/live/mgfba4b/mgf239161/18.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 ,On=>Teste 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://joao-1-us.mainbkonline.shop:80/live/082627805564PW/240638614463/12.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 ,On=>Teste 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://tv.com.vc/live/vivian/vivian123/454666.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 ,On=>Teste 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=1058&url=http://esrv.cc:80/live/sebastiaoo/639442/41542.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 ,On=>Teste 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://tv.com.vc:80/live/vivian/vivian123/454900.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 ,On=>Teste 7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://conexaoonline.top:80/0008650/8238145/2215.m3u8|User-Agent=FooBar/1.2.3
