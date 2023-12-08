@@ -12,4 +12,4 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dra
 #EXTINF:-1 ,On=>Teste 6
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://tv.com.vc:80/live/vivian/vivian123/454900.m3u8|User-Agent=FooBar/1.2.3
 #EXTINF:-1 ,On=>Teste 7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://hwnet.tvpn.eu:80/marcelo/marcelo/80|User-Agent=FooBar/1.2.3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://hwnet.tvpn.eu:80/live/marcelo/marcelo/80.ts|User-Agent=FooBar/1.2.3
