@@ -25,14 +25,6 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR red]�[/COLOR]Filmes Via [COLOR yellow]Torrent[/COLOR]</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>Nesseçario ter o addon elementum</info>
-		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenufilmes/filmes%20via%20torrents.xml</externallink>
-    </channel>
-	
-	<channel>
         <name>[COLOR lime]�[/COLOR]Acervo Colaborador [COLOR rosybrown]R.O[/COLOR][COLOR yellow] Torrent[/COLOR]</name>
         <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
         <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
@@ -41,11 +33,11 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Filmes Ultimos Lançamentos 2023 Via [COLOR yellow]Torrent[/COLOR]</name>
+        <name>[COLOR blue]�[/COLOR]Area de Teste [COLOR yellow]Cine Dragon[/COLOR]</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>Total de Filmes Adicionado=>[COLOR yellow]132[/COLOR]       Só Lançamento Atual</info>
-		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenufilmes/zyekfilmeslancamentostorrents2023.xml</externallink>
+		<info>Area reservada para teste</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenufilmes/Area%20de%20teste%20filmes.xml</externallink>
     </channel>
 
 </channels>	
