@@ -1,6 +1,14 @@
 <items>
 
-<item>
+   <item>
+		<title>Aguas de lindoia-SP</title>
+		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/e1/%C3%81guas_de_Lind%C3%B3ia_01.jpg</thumbnail>
+		<fanart>https://upload.wikimedia.org/wikipedia/commons/e/e1/%C3%81guas_de_Lind%C3%B3ia_01.jpg</fanart>
+		<link>https://mia.rtsp.me/8Ofhc5WGFmZwmGPBkDhHsQ/1702495155/hls/GQR2zt4e.m3u8</link>
+		<info></info>
+	</item>
+	
+  <item>
 		<title>Cascavel Panorâmica-PR</title>
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Fotos_do_Centro_de_Cascavel.jpg/800px-Fotos_do_Centro_de_Cascavel.jpg</thumbnail>
 		<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Fotos_do_Centro_de_Cascavel.jpg/800px-Fotos_do_Centro_de_Cascavel.jpg</fanart>
