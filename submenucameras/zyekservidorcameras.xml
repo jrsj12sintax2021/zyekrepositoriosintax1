@@ -1,7 +1,7 @@
 <items>
 
 <item>
-		<title>Cascavel Panorâmica</title>
+		<title>Cascavel Panorâmica-PR</title>
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Fotos_do_Centro_de_Cascavel.jpg/800px-Fotos_do_Centro_de_Cascavel.jpg</thumbnail>
 		<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Fotos_do_Centro_de_Cascavel.jpg/800px-Fotos_do_Centro_de_Cascavel.jpg</fanart>
 		<link>https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8</link>
@@ -33,7 +33,7 @@
 	</item>
 	
 	<item>
-		<title>Caldas Novas - Praça do Privé 2</title>
+		<title>Caldas Novas - Praça do Privé-GO</title>
 		<thumbnail>https://pt.m.wikipedia.org/wiki/Caldas_Novas#/media/Ficheiro%3ACaldas_Novas_-_A%C3%A9rea.jpg</thumbnail>
 		<fanart>https://pt.m.wikipedia.org/wiki/Caldas_Novas#/media/Ficheiro%3ACaldas_Novas_-_A%C3%A9rea.jpg</fanart>
 		<link>https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w2080705785.m3u8</link>
@@ -41,7 +41,7 @@
 	</item>
 	
 	<item>
-		<title>Umuarama - Av. Paraná</title>
+		<title>Umuarama - Av. Paraná-PR</title>
 		<thumbnail>https://umuarama.pr.gov.br/files/Wallpapers/foto/1688067869.jpg</thumbnail>
 		<fanart>https://umuarama.pr.gov.br/files/Wallpapers/foto/1688067869.jpg</fanart>
 		<link>https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/chunklist_w1059256964.m3u8</link>
@@ -49,31 +49,16 @@
 	</item>
 	
 	<item>
-		<title>Cascavel - Centro</title>
-		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Fotos_do_Centro_de_Cascavel.jpg/800px-Fotos_do_Centro_de_Cascavel.jpg</thumbnail>
-		<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Fotos_do_Centro_de_Cascavel.jpg/800px-Fotos_do_Centro_de_Cascavel.jpg</fanart>
-		<link>https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8</link>
-		<info></info>
-	</item>
-	
-	<item>
-		<title>Umuarama - Praça Miguel Rossafa</title>
+		<title>Umuarama - Praça Miguel Rossafa-PR</title>
 		<thumbnail>https://umuarama.pr.gov.br/files/Wallpapers/foto/1688067869.jpg</thumbnail>
 		<fanart>https://umuarama.pr.gov.br/files/Wallpapers/foto/1688067869.jpg</fanart>
 		<link>https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/chunklist_w833825109.m3u8</link>
 		<info></info>
 	</item>
 	
-	<item>
-		<title>Águas de Lindoia</title>
-		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/%C3%81guas_de_Lind%C3%B3ia_01.jpg/1200px-%C3%81guas_de_Lind%C3%B3ia_01.jpg</thumbnail>
-		<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/%C3%81guas_de_Lind%C3%B3ia_01.jpg/1200px-%C3%81guas_de_Lind%C3%B3ia_01.jpg</fanart>
-		<link>https://mia.rtsp.me/wwh1v57EwKj7vagM94Xs4g/1702432984/hls/GQR2zt4e.m3u8?ip=189.126.230.173</link>
-		<info></info>
-	</item>
 	
 	<item>
-		<title>Foz Do Iguaçu - Panorâmica</title>
+		<title>Foz Do Iguaçu - Panorâmica-PR</title>
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Foz_do_Igua%C3%A7u_-_panoramio.jpg/1067px-Foz_do_Igua%C3%A7u_-_panoramio.jpg</thumbnail>
 		<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Foz_do_Igua%C3%A7u_-_panoramio.jpg/1067px-Foz_do_Igua%C3%A7u_-_panoramio.jpg</fanart>
 		<link>https://5b33b873179a2.streamlock.net:1443/camerafozaduana/camerafozaduana.stream/chunklist_w833618440.m3u8</link>
