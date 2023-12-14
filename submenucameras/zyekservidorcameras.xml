@@ -1,12 +1,5 @@
 <items>
 
-   <item>
-		<title>Aguas de lindoia-SP</title>
-		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/e1/%C3%81guas_de_Lind%C3%B3ia_01.jpg</thumbnail>
-		<fanart>https://upload.wikimedia.org/wikipedia/commons/e/e1/%C3%81guas_de_Lind%C3%B3ia_01.jpg</fanart>
-		<link>https://mia.rtsp.me/8Ofhc5WGFmZwmGPBkDhHsQ/1702495155/hls/GQR2zt4e.m3u8</link>
-		<info></info>
-	</item>
 	
   <item>
 		<title>Cascavel Panorâmica-PR</title>
@@ -17,7 +10,7 @@
 	</item>
 	
 	<item>
-		<title>Goiânia - Viaduto Av. T-63</title>
+		<title>Goiânia - Viaduto Av. T-63-GO</title>
 		<thumbnail>https://pt.m.wikipedia.org/wiki/Goi%C3%A2nia#/media/Ficheiro%3AGoiania_banner.jpg</thumbnail>
 		<fanart>https://pt.m.wikipedia.org/wiki/Goi%C3%A2nia#/media/Ficheiro%3AGoiania_banner.jpg</fanart>
 		<link>https://5a7d54e35f9d2.streamlock.net/aquariuscenter2/aquariuscenter2.stream/chunklist_w499762233.m3u8</link>
@@ -25,7 +18,7 @@
 	</item>
 	
 	<item>
-		<title>Goiânia - Av. Jamel Cecílio</title>
+		<title>Goiânia - Av. Jamel Cecílio-GO</title>
 		<thumbnail>https://pt.m.wikipedia.org/wiki/Goi%C3%A2nia#/media/Ficheiro%3AGoiania_banner.jpg</thumbnail>
 		<fanart>https://pt.m.wikipedia.org/wiki/Goi%C3%A2nia#/media/Ficheiro%3AGoiania_banner.jpg</fanart>
 		<link>https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w2141847642.m3u8</link>
@@ -33,7 +26,7 @@
 	</item>
 	
 	<item>
-		<title>Goiânia - Av. Rio Verde</title>
+		<title>Goiânia - Av. Rio Verde-GO</title>
 		<thumbnail>https://pt.m.wikipedia.org/wiki/Goi%C3%A2nia#/media/Ficheiro%3AGoiania_banner.jpg</thumbnail>
 		<fanart>https://pt.m.wikipedia.org/wiki/Goi%C3%A2nia#/media/Ficheiro%3AGoiania_banner.jpg</fanart>
 		<link>https://hunq9fz8yk.zoeweb.tv/flamboyant/flamboyant.stream/chunklist_w59179766.m3u8</link>
@@ -142,6 +135,38 @@
 		<thumbnail>https://images.mnstatic.com/77/d2/77d2558a5cb5f05e0d73e89f9c2774dc.jpg</thumbnail>
 		<fanart>https://images.mnstatic.com/77/d2/77d2558a5cb5f05e0d73e89f9c2774dc.jpg</fanart>
 		<link>https://videos-3.earthcam.com/fecnetwork/6593.flv/chunklist_w1610127639.m3u8</link>
+		<info></info>
+	</item>
+	
+	<item>
+		<title>Ponte da amizade-BRxParaguai</title>
+		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Ponte_da_amizade_-_Friendship_bridge-_Paraguay_%289623754507%29.jpg</thumbnail>
+		<fanart>https://upload.wikimedia.org/wikipedia/commons/f/f7/Ponte_da_amizade_-_Friendship_bridge-_Paraguay_%289623754507%29.jpg</fanart>
+		<link>https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8</link>
+		<info></info>
+	</item>
+	
+	<item>
+		<title>blumenau-antonio veiga-SC</title>
+		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8a/Foto_a%C3%A9rea_Blumenau.jpg</thumbnail>
+		<fanart>https://upload.wikimedia.org/wikipedia/commons/8/8a/Foto_a%C3%A9rea_Blumenau.jpg</fanart>
+		<link>https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20004.stream/chunklist_w1710145350.m3u8</link>
+		<info></info>
+	</item>
+	
+	<item>
+		<title>brusque-rua carlos gracher-SC</title>
+		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/83/Brusque1.jpg</thumbnail>
+		<fanart>https://upload.wikimedia.org/wikipedia/commons/8/83/Brusque1.jpg</fanart>
+		<link>https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20007.stream/chunklist_w1786663289.m3u8</link>
+		<info></info>
+	</item>
+	
+	<item>
+		<title>itajai-praia brava-SC</title>
+		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Panoramica_da_cidade_vista_do_alto_do_morro_da_cruz_localizado_no_bairro_fazenda_pr%C3%B3ximo_ao_centro_da_cidade_-_panoramio.jpg/1200px-Panoramica_da_cidade_vista_do_alto_do_morro_da_cruz_localizado_no_bairro_fazenda_pr%C3%B3ximo_ao_centro_da_cidade_-_panoramio.jpg</thumbnail>
+		<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Panoramica_da_cidade_vista_do_alto_do_morro_da_cruz_localizado_no_bairro_fazenda_pr%C3%B3ximo_ao_centro_da_cidade_-_panoramio.jpg/1200px-Panoramica_da_cidade_vista_do_alto_do_morro_da_cruz_localizado_no_bairro_fazenda_pr%C3%B3ximo_ao_centro_da_cidade_-_panoramio.jpg</fanart>
+		<link>https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20009.stream/chunklist_w357705268.m3u8</link>
 		<info></info>
 	</item>
 	
