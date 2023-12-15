@@ -16,4 +16,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dra
 #EXTINF:-1 ,On=>Teste 8
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://authxplus-2.xyz:2082/live/Tourobox1-t5qQlnyF6b/BDurUREuNC/72.m3u8|User-Agent=FooBar/1.2.3
 #EXTINF:-1 ,On=>Teste 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tv.com.vc:80/live/edson/edson/454897.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tv.com.vc:80/live/edson/edson/454897.ts|User-Agent=FooBar/1.2.3
+#EXTINF:-1 ,On=>Teste 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://tv.com.vc:80/live/edson/edson/454897.m3u8|User-Agent=FooBar/1.2.3
