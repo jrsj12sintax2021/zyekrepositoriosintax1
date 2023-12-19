@@ -1,7 +1,7 @@
 <channels>
 	<!-- opicional -->    
 	<channel>
-        <name>[COLOR yellow]![/COLOR] TER F4TESTER INSTALADO [COLOR yellow]![/COLOR]</name>
+        <name>[COLOR purple]![/COLOR] [COLOR yellow]TER F4TESTER INSTALADO[/COLOR] [COLOR purple]![/COLOR]</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR yellow]Para rodar ter o F4tester instalado para rodar os canais[/COLOR]</info>
@@ -10,7 +10,7 @@
 	
 	<channel>
         <name>[COLOR red]�[/COLOR]Servidor [COLOR yellow]Pluto TV[/COLOR][COLOR orange] !leia com atencao do lado! [/COLOR]</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <thumbnail>https://i1.wp.com/www.brasilferroviario.com.br/wp-content/uploads/2020/11/MANUTENCAO.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>Este servidor trava sempre no comercial do pluto congela a imagem fica so o audio quando entrar na propaganda da pluto esperar acabar a propaganda e para e entrar dinovo</info>
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyekservidorplutotv.xml</externallink>
@@ -36,7 +36,7 @@
         <name>[COLOR lime]�[/COLOR]Servidor 3[COLOR yellow] TV[/COLOR]</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline  3.1.24</info>
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuservidor4.xml</externallink>
     </channel>
 
