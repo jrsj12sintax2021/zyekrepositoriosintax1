@@ -1,43 +1,19 @@
-﻿<channels>
+<channels>
 	<!-- opicional -->    
 	<channel>
-        <name>[COLOR lime]●[/COLOR]A Fazenda</name>
+        <name>[COLOR lime]●[/COLOR]Aberto</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741864123617381/A_Fazenda.m3u</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186458888107741294/Aberto.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Abertos</name>
+        <name>[COLOR lime]●[/COLOR]Cine SKY</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741864517873665/Abertos.m3u</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]●[/COLOR]Bahia</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741865147023410/Bahia.m3u</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]●[/COLOR]Band</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741865583235142/Band.m3u</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]●[/COLOR]Ceara</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741865918771270/Ceara.m3u</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186458888497791026/Cine_SKY.m3u</externallink>
     </channel>
 	
 	<channel>
@@ -45,31 +21,47 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741869928525904/Discovery.m3u</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186458889101778994/Discovery.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Documentários</name>
+        <name>[COLOR lime]●[/COLOR]Documentario</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741870326988831/Documentarios.m3u</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186458889101778994/Discovery.m3u</externallink>
     </channel>
-
-    <channel>
+	
+	<channel>
         <name>[COLOR lime]●[/COLOR]Entretenimento</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741870679314512/Entretenimento.m3u</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186458890003554324/Entretenimento.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Filmes e Séries</name>
+        <name>[COLOR lime]●[/COLOR]Esporte</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741871102935091/Filmes_e_Series.m3u</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186458890502688819/Esporte.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Esporte PPV</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186458890926301214/Esportes_PPV.m3u</externallink>
+    </channel>
+
+    <channel>
+        <name>[COLOR lime]●[/COLOR]Filmes e Series</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186458891274420346/Filmes_e_Series.m3u</externallink>
     </channel>
 	
 	<channel>
@@ -77,7 +69,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741871438483566/Globo.m3u</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186458891622555658/Globo.m3u</externallink>
     </channel>
 	
 	<channel>
@@ -85,71 +77,31 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741970214334556/HBO.m3u</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186458892109107210/HBO.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Infantil</name>
+        <name>[COLOR lime]●[/COLOR]Infantis</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741971032219648/Infantil.m3u</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186459041761869884/Infantis.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Natal</name>
+        <name>[COLOR lime]●[/COLOR]Noticias</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741971468431410/Natal.m3u</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186459042118389870/Noticia.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Notícias</name>
+        <name>[COLOR lime]●[/COLOR]Portugal</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741971833331813/Noticias.m3u</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]●[/COLOR]Palmas</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741972173082644/Palmas.m3u</externallink>
-    </channel>
-
-    <channel>
-        <name>[COLOR lime]●[/COLOR]Paraiba</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741972479258734/Paraiba.m3u</externallink>
-    </channel>
-	
-    <channel>
-        <name>[COLOR lime]●[/COLOR]Parana</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741972965793872/Parana.m3u</externallink>
-    </channel>
-	
-		<channel>
-        <name>[COLOR lime]●[/COLOR]Pay-Per-View</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741973519454208/Pay-Per-View.m3u</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]●[/COLOR]Pernambuco</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741975348162621/Pernambuco.m3u</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186459042470703114/Portugal.m3u</externallink>
     </channel>
 	
 	<channel>
@@ -157,39 +109,47 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170741975700492329/Premiere.m3u</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186459042785280101/Premiere.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]RecordTV</name>
+        <name>[COLOR lime]●[/COLOR]Reality</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170742058273738833/RecordTV.m3u</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186459043179548752/Reality.m3u</externallink>
+    </channel>
+
+    <channel>
+        <name>[COLOR lime]●[/COLOR]Record</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186459043527667852/Record.m3u</externallink>
     </channel>
 	
-	<channel>
+    <channel>
         <name>[COLOR lime]●[/COLOR]Religiosos</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170742059104215050/Religiosos.m3u</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186459044299423905/Religiosos.m3u</externallink>
     </channel>
 	
-	<channel>
-        <name>[COLOR lime]●[/COLOR]SBT</name>
+		<channel>
+        <name>[COLOR lime]●[/COLOR]SportTV</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170742059834032158/SBT.m3u</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186459044660138065/SporTV.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Sports</name>
+        <name>[COLOR lime]●[/COLOR]Star+</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170742060190535700/Sports.m3u</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186459045025034261/Star.m3u</externallink>
     </channel>
 	
 	<channel>
@@ -197,8 +157,9 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1170742060551249920/Telecine.m3u</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186459045368975360/Telecine.m3u</externallink>
     </channel>
-
+	
+	
 	
 </channels>	
