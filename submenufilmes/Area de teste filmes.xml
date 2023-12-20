@@ -3,13 +3,13 @@
  <item>
 			<title>[COLOR orange]Rede Vida[/COLOR]</title>
 			<sportsdevil>https://climaaovivo.com.br/sp/bourbon-atibaia-resort</sportsdevil>
-			<referer>http://www.cxtv.com.br/</referer>
+			<referer>https://climaaovivo.com.br/</referer>
 			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/a0d63881986e2d53734fb0660594b420.png</fanart>
 			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/a0d63881986e2d53734fb0660594b420.png</thumbnail>
 		</item>
 <item>
 	<title> teste </title>
 	<epg>http://joao-1-us.mainbkonline.shop:80/xmltv.php?username=082627805564PW&password=240638614463&type=m3u_plus&output=ts</epg>
-	<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://joao-1-us.mainbkonline.shop:80/live/082627805564PW/240638614463/12.m3u8</link>
+	<link>http://joao-1-us.mainbkonline.shop:80/live/082627805564PW/240638614463/12.m3u8</link>
 </item>
 </items>
