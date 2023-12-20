@@ -1,212 +1,36 @@
-	<channel>
-	<name>[COLOR orange]Canais de Portugal 2[/COLOR]</name>
-	<genre>TV Aberta</genre>
-		<thumbnail>https://cld.pt/dl/download/c69a2e70-37c8-49cf-b234-1d14a9cf6864/tvonl1_Hp621600.png</thumbnail>
-		<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
-			<subitems>
-				<item>
-					<title>[COLOR blue]Opção 1[/COLOR]</title>
-					<link>-</link>
-					<thumbnail>http://4.bp.blogspot.com/-CnSjDbGmxWc/UoP528lOYRI/AAAAAAAABJQ/abXIcdWgmEQ/s1600/cviv.jpg</thumbnail>
-					<fanart>https://cld.pt/dl/download/1afefd48-a7d5-4280-a6c3-8144e7cf7019/channel_logos.gif</fanart>
-					<externallink>http://pastebin.com/raw/dNBcSxAm</externallink>
-				</item>
-			</subitems>
-			<subitem>
-				<item>
-					<title>RTP-1</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/rtp1</sportsdevil>
-					<referer>http://www.rtp.pt/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtp1.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-				
-				<item>
-					<title>RTP-2</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/rtp2</sportsdevil>
-					<referer>http://www.rtp.pt/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtp2.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-				
-				<item>
-					<title>RTP-3</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtp3.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item> 
-				
-				<item>
-					<title>RTP Memoria</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/rtpmemoria</sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpmemoria.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-				
-				
-				<item>
-					<title>RTP Madeira</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/rtpmadeira</sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpmadeira.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-				
-				<item>
-					<title>RTP Açores</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/rtpacores</sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpacores.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-				
-				<item>
-					<title>RTP Africa</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/rtpafrica</sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpafrica.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-				
-				<item>
-					<title>RTP Internacional</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/rtpinternacional</sportsdevil>
-					<referer></referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-				
-				
-				<item>
-					<title>RTP N</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/rtpinformacao</sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail>http://logos.streamsites.eu/2389_rtp-n_overview.png</thumbnail>
-				</item>
-					<item>
-					<title>Benfica Tv</title>
-					<sportsdevil>http://reformadostv.comunidades.net/index.php</sportsdevil>
-					<referer>http://www.tvportugalhd.eu/</referer>
-					<thumbnail>https://lh5.googleusercontent.com/-hSjZUW0BGK0/VIGdMhNJi6I/AAAAAAAAAAs/YbGQ91bqdoM/btvhd.png</thumbnail>
-				</item>
-				
-				
-				
-				<item>
-					<title>AXN</title>
-					<sportsdevil>http://www.tvportugalhd.eu/p/axn.html</sportsdevil>
-					<referer>http://www.tvportugalhd.eu/</referer>
-					<thumbnail>https://lh4.googleusercontent.com/-3WZK7LxpV58/VIGdMbr1x9I/AAAAAAAAAA4/TuIYkkgLLwU/axn.png</thumbnail>
-				</item>
-				
-				<item>
-					<title>SIC Mulher</title>
-					<sportsdevil>http://mytvfree.me/sic-mulher</sportsdevil>
-					<referer>http://mytvfree.me/</referer>
-					<thumbnail></thumbnail>
-				</item>
-				
-				
-				
-				<item>
-					<title>[COLOR orange]Rádios[/COLOR]</title>
-					<sportsdevil>-</sportsdevil>
-					<referer>-</referer>
-					<thumbnail>https://cld.pt/dl/download/2bdc7520-1d05-4526-8584-6eebabef5364/radio.png</thumbnail>
-				</item>
-				
-					
-				<item>
-					<title>Antena 1</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/antena1</sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/antena1.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-				
-				
-				
-				<item>
-					<title>Antena 2</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/antena2</sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/antena2.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-				
-				<item>
-					<title>Antena 3</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/antena3</sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/antena3.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-				
-				<item>
-					<title></title>
-					<sportsdevil></sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail></thumbnail>
-				</item>
-				
-				<item>
-					<title>RDP Internacional</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/rdpinternacional</sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rdpinternacional.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-				
-				<item>
-					<title>RDP África</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/rdpafrica</sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rdpafrica.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-				
-				<item>
-					<title>Rádio LUSITÂNIA</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/radiolusitania</sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/radiolusitania.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-				
-				<item>
-					<title>Antena 3 Rock rtp pt</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/antena3rock</sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/antena3rock.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-				
-				<item>
-					<title>Antena 3 Dance</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/antena3dance</sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/antena3dance.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-				
-				<item>
-					<title>Antena 1 Fado</title>
-					<sportsdevil></sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/antena1fado.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-				
-				<item>
-					<title>Antena 2 Opera</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/antena2opera</sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/antena2opera.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-				<item>
-					<title>Antena 1 Vida</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/antena1vida</sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/antena1vida.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-				<item>
-					<title>Radio 80</title>
-					<sportsdevil>http://www.rtp.pt/play/direto/radio80</sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/80anos.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-				
-				<item>
-					<title>RDP Açores - Antena 1 </title>
-					<sportsdevil>http://www.rtp.pt/play/direto/antena1acores</sportsdevil>
-					<referer>http://www.rtp.pt/play/</referer>
-					<thumbnail>http://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rdpacoresantena1.png?f=png&q=100&v=3&w=100&w=150&h=30</thumbnail>
-				</item>
-			</subitems>
-		</subchannel>
-	</channel>	
+<item>
+<title>[B][COLOR lime]DailyBUSCA IPTV[COLOR cyan] Dose[/COLOR][/B]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[B][COLOR lime]Daily[COLOR cyan] COXADose -[COLOR yellow][I] Date Uploaded: [makelist2.param2] [/COLOR][/B][/I]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>https://i.imgur.com/vQlkLtY.png</thumbnail>
+<fanart>https://i.imgur.com/qKiQ0qa.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Daily m3u playlist (.*?)2018]]></expres>
+<page>https://pavandayal.com/</page>
+</regex>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[B][COLOR lime]Daily[COLOR cyan] Dose - [I][COLOR lime][makelist.param1][makelist.param2][/B][/I][/COLOR] </title>
+ <link>NA</link>
+<thumbnail>https://i.imgur.com/vQlkLtY.png</thumbnail>
+<fanart>https://i.imgur.com/qKiQ0qa.jpg</fanart>
+ <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+
+ 
+
+ ]]></listrepeat>
+<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i.imgur.com/vQlkLtY.png</thumbnail>
+<fanart>https://i.imgur.com/qKiQ0qa.jpg</fanart>
+<info></info>
+</item>
