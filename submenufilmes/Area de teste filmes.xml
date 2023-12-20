@@ -9,6 +9,6 @@
 		</item>
 <item>
 	<title> teste </title>
-	<f4m>http://joao-1-us.mainbkonline.shop:80/live/082627805564PW/240638614463/741.m3u8</f4m>
+	<f4m>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://joao-1-us.mainbkonline.shop:80/live/082627805564PW/240638614463/12.m3u8</f4m>
 </item>
 </items>
