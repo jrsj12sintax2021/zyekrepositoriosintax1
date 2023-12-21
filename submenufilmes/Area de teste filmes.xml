@@ -1,30 +1,10 @@
-<channels>
-
-<channel>
-<name>[COLOR lime]●[/COLOR]ESPORTES</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-<subchannel>
 <items>
-
-
- <item>
-			<title>[COLOR orange]Rede Vida[/COLOR]</title>
-			<sportsdevil>https://megacanais.com/discovery-science-ao-vivo</sportsdevil>
-			<referer>https://megacanais.com</referer>
-			<fanart>http://www.cxtv.com.br/img/Tvs/Logo/a0d63881986e2d53734fb0660594b420.png</fanart>
-			<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/a0d63881986e2d53734fb0660594b420.png</thumbnail>
-		</item>
 <item>
-	<title> teste </title>
-	<epg>http://joao-1-us.mainbkonline.shop:80/xmltv.php?username=082627805564PW&password=240638614463&type=m3u_plus&output=ts</epg>
-	<parentalblock>1201</parentalblock>
-	<link>http://joao-1-us.mainbkonline.shop:80/live/082627805564PW/240638614463/12.m3u8</link>
-	<link>http://joao-1-us.mainbkonline.shop:80/live/082627805564PW/240638614463/13.m3u8</link>
+<title>O Silêncio da Vingança - Legendado 2023</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B0ED4DDDC8E2133846D1AC02114AF91DFEE708AE&dn=Silent+Night+%282023%29+%5B1080p%5D+%5BYTS.MX%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7W2fdpbWV2MiaCpjYakbudP3Ywx.jpg</thumbnail>
+<genre> Ação / Suspense</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7W2fdpbWV2MiaCpjYakbudP3Ywx.jpg</fanart>
+<info>Godlock é um pai em uma missão para vingar seu filho que foi tragicamente pego no fogo cruzado da violência de gangues na véspera de Natal. Baleado e quase morto enquanto perseguia os assassinos, Godlock promete vingar seu filho por qualquer meio necessário.</info>
 </item>
 </items>
-</subchannel>
-</channel>
-
-</channels>
