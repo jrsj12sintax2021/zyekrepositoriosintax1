@@ -18,7 +18,7 @@
 	
     <channel>
         <name>[COLOR lime]�[/COLOR]Servidor 1[COLOR yellow] TV[/COLOR]</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20servidor%20tv1.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuservidor1tv.xml</externallink>
@@ -26,7 +26,7 @@
 	
 	<channel>
         <name>[COLOR lime]�[/COLOR]Servidor 2[COLOR yellow] TV[/COLOR]</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20servidor%20de%20tv%202.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR yellow]12/2023[/COLOR]</info>
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuservidor2tv.xml</externallink>
@@ -34,7 +34,7 @@
 	
 	<channel>
         <name>[COLOR lime]�[/COLOR]Servidor 3[COLOR yellow] TV[/COLOR]</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20servidor%20de%20tv%203.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline  3.1.24</info>
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuservidor4.xml</externallink>
@@ -42,7 +42,7 @@
 
     <channel>
         <name>[COLOR lime]�[/COLOR]Servidor 4[COLOR yellow] TV[/COLOR]</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20servidor%20de%20tv%204.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuservidor5.xml</externallink>
@@ -51,7 +51,7 @@
 	
 	<channel>
         <name>[COLOR blue]�[/COLOR]Area de Teste [COLOR yellow]Cine drangon[/COLOR]</name>
-        <thumbnail>https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg</thumbnail>
+        <thumbnail>https://ia601901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/Atencao%20area%20de%20teste.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuArea%20de%20Teste.xml</externallink>
