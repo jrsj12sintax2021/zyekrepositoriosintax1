@@ -4,7 +4,6 @@
 	<channel>
         <name>[COLOR lime]●[/COLOR] ABERTOS</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-		<$doregex>http://joao-1-us.mainbkonline.shop:80/xmltv.php?username=082627805564PW&password=240638614463</$doregex>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
 		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1182694179067920514/ABERTOS.m3u</externallink>
