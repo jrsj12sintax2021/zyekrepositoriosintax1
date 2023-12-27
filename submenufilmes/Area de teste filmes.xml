@@ -1,36 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>[B][COLOR lime]DailyBUSCA IPTV[COLOR cyan] Dose[/COLOR][/B]</title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
- <title>[B][COLOR lime]Daily[COLOR cyan] COXADose -[COLOR yellow][I] Date Uploaded: [makelist2.param2] [/COLOR][/B][/I]</title>
- <link>$doregex[makelist]</link>
-<thumbnail>https://i.imgur.com/vQlkLtY.png</thumbnail>
-<fanart>https://i.imgur.com/qKiQ0qa.jpg</fanart>
- ]]></listrepeat>
-<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Daily m3u playlist (.*?)2018]]></expres>
-<page>https://pavandayal.com/</page>
-</regex>
-</regex>
+<title> IPTV.TR.1</title>
+<link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
- <title>[B][COLOR lime]Daily[COLOR cyan] Dose - [I][COLOR lime][makelist.param1][makelist.param2][/B][/I][/COLOR] </title>
- <link>NA</link>
-<thumbnail>https://i.imgur.com/vQlkLtY.png</thumbnail>
-<fanart>https://i.imgur.com/qKiQ0qa.jpg</fanart>
- <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
-
- 
-
- ]]></listrepeat>
-<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
-<page>[makelist2.param1]</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
+<page>http://force102.com:8080/get.php?username=onur3434&amp;password=3434onur&amp;type=m3u&amp;output=m3u8</page>
+<referer>www.google.com/</referer>
+<x-forward></x-forward>
+<agent>Kodi/18.0</agent>
 </regex>
-<thumbnail>https://i.imgur.com/vQlkLtY.png</thumbnail>
-<fanart>https://i.imgur.com/qKiQ0qa.jpg</fanart>
-<info></info>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
 </item>
+
+  <item>
+<title> IPTV.TR.2</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
+<page>http://mk-liveportal.com:5909/get.php?username=QoBeQgdoEL&amp;password=onotR113tk&amp;type=m3u&amp;output=m3u8</page>
+<referer>http://www.google.com/</referer>
+<x-forward></x-forward>
+<agent>Kodi/18.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item>
+
+  <item>
+<title> IPTV.TR.3</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(TK.*?)\n.*(http.*m3u8)</expres>
+<page>http://ndaiptv.com:5999/get.php?username=adil1&amp;password=adil2&amp;type=m3u&amp;output=m3u8</page>
+<referer>http://www.google.com/</referer>
+<x-forward></x-forward>
+<agent>Kodi/18.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item> 
+
+  <item>
+<title> IPTV.TR.4</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(TR.*?)\n.*(http.*m3u8)</expres>
+<page>http://5.189.187.55:8000/get.php?username=nour&amp;password=skype&amp;type=m3u&amp;output=m3u8</page>
+<referer>http://www.google.com/</referer>
+<x-forward></x-forward>
+<agent>Kodi/18.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item> 
+  
+  <item>
+<title> IPTV.TR.5</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.TR.*?)\n.*(http.*ts)</expres>
+<page>http://145.239.1.103:8000/get.php?username=melik&amp;password=123456&amp;type=m3u&amp;output=mpegts</page>
+<referer>http://www.google.com//</referer>
+<x-forward></x-forward>
+<agent>Kodi/18.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item>
+
+  <item>
+<title> IPTV.VJACKSON</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>[makelist.param3]?n=1&b=|User-Agent=VAVOO/2.2&amp;Referer=https://vjackson.info/</link><thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[tvg-name="(.*?)".+?"(.*?)".*\n(.*)]]></expres>
+<page>https://vjackson.info/live/index</page>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item>
+
+  <item>
+<title> IPTV.BG.1</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
+<page>https://raw.githubusercontent.com/mutluerol/iptv.bg/master/iptv.bg.m3u</page>
+<referer>http://wwww.github.com/</referer>
+<x-forward></x-forward>
+<agent>Kodi/18.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item>   
