@@ -1,20 +1,5 @@
 <items>
 
-    <item>
-		<title>Aeroporto Guarulhos-SP</title>
-		<thumbnail>https://aeroin.net/wp-content/uploads/2021/03/Guarulhos-aeroporto-1.jpg</thumbnail>
-		<fanart>https://aeroin.net/wp-content/uploads/2021/03/Guarulhos-aeroporto-1.jpg</fanart>
-		<link>https://livestream.zazerconer.workers.dev/channel/UCNZCKDhAVtbh7sddChTxI7w.m3u8</link>
-		<info></info>
-	</item>
-	
-	<item>
-		<title>Aeroporto Viracopos-Campinas-SP</title>
-		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Aeroporto_de_Campinas.jpg/800px-Aeroporto_de_Campinas.jpg</thumbnail>
-		<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Aeroporto_de_Campinas.jpg/800px-Aeroporto_de_Campinas.jpg</fanart>
-		<link>https://livestream.zazerconer.workers.dev/channel/UCiK_RbBojUpkfxsgw6ffdfw.m3u8</link>
-		<info></info>
-	</item>
 	
   <item>
 		<title>Cascavel Panorâmica-PR</title>
