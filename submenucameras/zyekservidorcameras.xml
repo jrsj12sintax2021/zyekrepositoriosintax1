@@ -203,10 +203,10 @@
 	</item>
 	
 	<item>
-		<title>Mariscal - Restaurante Paraiso dos Sabores-SC</title>
+		<title>1Mariscal - Restaurante Paraiso dos Sabores-SC</title>
 		<thumbnail>https://i.ytimg.com/vi/FJrbUsRUDE4/hqdefault_live.jpg</thumbnail>
 		<fanart>https://i.ytimg.com/vi/FJrbUsRUDE4/hqdefault_live.jpg</fanart>
-		<link>https://cinedragon.juninho12012019.workers.dev/stream/FJrbUsRUDE4/master.m3u8</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=https://cinedragon.juninho12012019.workers.dev/stream/FJrbUsRUDE4/master.m3u8</link>
 		<info></info>
 	</item>
 	
