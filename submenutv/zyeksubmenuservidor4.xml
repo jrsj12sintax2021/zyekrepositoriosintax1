@@ -1,5 +1,13 @@
 <channels>
-	<!-- opicional -->    
+	<!-- servidor 3 -->    
+	<channel>
+        <name>[COLOR lime]●[/COLOR]BBB 2024</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
+		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1193908492780707880/REALITY_BBB.m3u</externallink>
+    </channel>
+	
 	<channel>
         <name>[COLOR lime]●[/COLOR]Aberto</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
@@ -110,14 +118,6 @@
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
 		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186459042785280101/Premiere.m3u</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]●[/COLOR]Reality</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
-		<externallink>https://cdn.discordapp.com/attachments/1151169847762358342/1186459043179548752/Reality.m3u</externallink>
     </channel>
 
     <channel>
