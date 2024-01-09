@@ -1,62 +1,60 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 	<!-- opicional -->    
-	<channel>
-        <name>[COLOR lime]=>[/COLOR] [COLOR yellow]TER F4TESTER INSTALADO[/COLOR] [COLOR lime]<=[/COLOR]</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR yellow]Para rodar ter o F4tester instalado para rodar os canais[/COLOR]</info>
-		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/central/zyeksubmenutv.xml</externallink>
-    </channel>
+<channel>
+<name>[COLOR lime]=>[/COLOR] [COLOR yellow]TER F4TESTER INSTALADO[/COLOR] [COLOR lime]<=[/COLOR]</name>
+<thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+<fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+<info>[COLOR yellow]Para rodar ter o F4tester instalado para rodar os canais[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/central/zyeksubmenutv.xml</externallink>
+</channel>
 	
-	<channel>
-        <name>[COLOR red]�[/COLOR]Servidor [COLOR yellow]Pluto TV[/COLOR][COLOR orange] !leia com atencao do lado! [/COLOR]</name>
-        <thumbnail>https://ia601901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/emManutencao.jpg</thumbnail>
-        <fanart>https://ia601901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/emManutencao.jpg</fanart>
-		<info>Este servidor trava sempre no comercial do pluto congela a imagem fica so o audio quando entrar na propaganda da pluto esperar acabar a propaganda e para e entrar dinovo</info>
-		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyekservidorplutotv.xml</externallink>
-    </channel>
+<channel>
+<name>[COLOR red]�[/COLOR]Servidor [COLOR yellow]Pluto TV[/COLOR][COLOR orange] !leia com atencao do lado! [/COLOR]</name>
+<thumbnail>https://ia601901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/emManutencao.jpg</thumbnail>
+<fanart>https://ia601901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/emManutencao.jpg</fanart>
+<info>Este servidor trava sempre no comercial do pluto congela a imagem fica so o audio quando entrar na propaganda da pluto esperar acabar a propaganda e para e entrar dinovo</info>
+<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyekservidorplutotv.xml</externallink>
+</channel>
 	
-    <channel>
-        <name>[COLOR lime]�[/COLOR]Servidor 1[COLOR yellow] TV[/COLOR]</name>
-        <thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20servidor%20tv1.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuservidor1tv.xml</externallink>
-    </channel>
+<channel>
+<name>[COLOR lime]�[/COLOR]Servidor 1[COLOR yellow] TV[/COLOR]</name>
+<thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20servidor%20tv1.jpg</thumbnail>
+<fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuservidor1tv.xml</externallink>
+</channel>
 	
-	<channel>
-        <name>[COLOR lime]�[/COLOR]Servidor 2[COLOR yellow] TV [/COLOR]</name>
-        <thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20servidor%20de%20tv%202.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR yellow]12/2023[/COLOR]</info>
-		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuservidor2tv.xml</externallink>
-    </channel>
+<channel>
+<name>[COLOR lime]�[/COLOR]Servidor 2[COLOR yellow] TV [/COLOR]</name>
+<thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20servidor%20de%20tv%202.jpg</thumbnail>
+<fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+<info>[COLOR yellow]12/2023[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuservidor2tv.xml</externallink>
+</channel>
 	
-	<channel>
-        <name>[COLOR lime]�[/COLOR]Servidor 3[COLOR yellow] TV[/COLOR]</name>
-        <thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20servidor%20de%20tv%203.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline  3.1.24</info>
-		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuservidor4.xml</externallink>
-    </channel>
+<channel>
+<name>[COLOR lime]�[/COLOR]Servidor 3[COLOR yellow] TV[/COLOR]</name>
+<thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20servidor%20de%20tv%203.jpg</thumbnail>
+<fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline  3.1.24</info>
+<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuservidor4.xml</externallink>
+</channel>
 
-    <channel>
-        <name>[COLOR lime]�[/COLOR]Servidor 4[COLOR yellow] TV[/COLOR]</name>
-        <thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20servidor%20de%20tv%204.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuservidor5.xml</externallink>
-		
-    </channel>
+<channel>
+<name>[COLOR lime]�[/COLOR]Servidor 4[COLOR yellow] TV[/COLOR]</name>
+<thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20servidor%20de%20tv%204.jpg</thumbnail>
+<fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuservidor5.xml</externallink>		
+</channel>
 	
-	<channel>
-        <name>[COLOR blue]�[/COLOR]Area de Teste [COLOR yellow]Cine drangon[/COLOR]</name>
-        <thumbnail>https://ia601901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/Atencao%20area%20de%20teste.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuArea%20de%20Teste.xml</externallink>
-		
-    </channel>
+<channel>
+<name>[COLOR blue]�[/COLOR]Area de Teste [COLOR yellow]Cine drangon[/COLOR]</name>
+<thumbnail>https://ia601901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/Atencao%20area%20de%20teste.jpg</thumbnail>
+<fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuArea%20de%20Teste.xml</externallink>	
+</channel>
 	
 </channels>	
