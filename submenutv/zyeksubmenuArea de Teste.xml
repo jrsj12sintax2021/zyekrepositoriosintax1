@@ -33,4 +33,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dra
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://15110166167.com:80/live/miltoneu/9s4472s/2576.m3u8|User-Agent=FooBar/1.2.3
 
 #EXTINF:-1 tvg-logo="https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg",On=>Teste 11 New
-http://15110166167.com:80/live/miltoneu/9s4472s/2576.m3u8.f4m|User-Agent=FooBar/1.2.3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://lbbr110.office646851.online/auth/59604.ts|User-Agent=FooBar/1.2.3
+
+#EXTINF:-1 tvg-logo="https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg",On=>Teste 11 New
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://lbbr110.office646851.online/auth/59604.ts|User-Agent=FooBar/1.2.3
