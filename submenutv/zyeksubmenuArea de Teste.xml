@@ -44,5 +44,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine
 #EXTINF:-1 tvg-logo="https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg",On=>Teste 14e
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=529&url=https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(DISCOVERY_THEATER_HD)/01.m3u8|User-Agent=FooBar/1.2.3
 
-#EXTINF:-1 tvg-logo="https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg",On=>Teste 14e
+#EXTINF:-1 tvg-logo="https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg",On=>Teste 15ps529
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=529&url=http://pdsrv.io:80/live/brailes123321/bra12345bra12/97390.m3u8|User-Agent=FooBar/1.2.3
+
+#EXTINF:-1 tvg-logo="https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg",On=>Teste 16ps1500
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=1500&url=http://pdsrv.io:80/live/brailes123321/bra12345bra12/97390.m3u8|User-Agent=FooBar/1.2.3
+
+#EXTINF:-1 tvg-logo="https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg",On=>Teste 17ps
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2200&url=http://pdsrv.io:80/live/brailes123321/bra12345bra12/97390.m3u8|User-Agent=FooBar/1.2.3
+
+#EXTINF:-1 tvg-logo="https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg",On=>Teste 18ps2116
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://pdsrv.io:80/live/brailes123321/bra12345bra12/97390.m3u8|User-Agent=FooBar/1.2.3
