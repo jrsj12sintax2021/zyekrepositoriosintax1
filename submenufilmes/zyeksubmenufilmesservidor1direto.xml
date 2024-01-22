@@ -137,19 +137,27 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]LANÇAMENTOS 2022</name>
+        <name>[COLOR lime]�[/COLOR]LANÇAMENTOS 2022[COLOR lime] Update[/COLOR]</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1155580671268491455/lancamento_2022.m3u</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1198995872650907708/LANCAMENTOS_2022.m3u</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]LANÇAMENTOS 2023</name>
+        <name>[COLOR lime]�[/COLOR]LANÇAMENTOS 2023[COLOR lime] Update[/COLOR]</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1155580711206658190/lancamento_2023.m3u</externallink>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1198995873380712458/LANCAMENTOS_2023.m3u</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]�[/COLOR]LANÇAMENTOS 2024[COLOR lime] New[/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1198995873993072780/LANCAMENTOS_2024.m3u</externallink>
     </channel>
 	
 	<channel>
