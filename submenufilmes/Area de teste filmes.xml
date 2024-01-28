@@ -18,14 +18,14 @@
 <thumbnail>https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg</thumbnail>
 <link>plugin://game.libretro.snes9x2010?url=https://archive.org/download/jogos_super_nintendo/Super%20Mario%20World%20%28U%29.zip</link>
 <fanart>https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg</fanart>
-</item> https://streamtape.com/v/PX0oyBB7zzF0VvQ/9mm_O_pres%C3%A7o_da_vingan%C3%A7a.mp4
+</item> 
 
 <item>
 <title>[COLOR yellow][B]teste4[/B][/COLOR]</title>
 <thumbnail>https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg</thumbnail>
 <link>plugin://plugin.video.resolverurl_player?url=https://sinalpublico.com/player3/serverf5hlb.php?vid=9MOPRCDVNGCA</link>
 <fanart>https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg</fanart>
-</item>
+</item>  
 
 <item>
 <title>[COLOR yellow][B]teste5e[/B][/COLOR]</title>
@@ -34,5 +34,12 @@
 <fanart>https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR yellow][B]teste6[/B][/COLOR]</title>
+<thumbnail>https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg</thumbnail>
+<link>plugin://plugin.video.resolverurl_player?url=https://sinalpublico.com/player3/serverf3hlb.php?vid=AQAMN2ORNOPRDOLEG</link>
+<fanart>https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg</fanart>
+</item>
+  
   
 </items>
