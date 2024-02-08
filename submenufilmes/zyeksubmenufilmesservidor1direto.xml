@@ -1,19 +1,12 @@
 <channels>
-	<!-- opicional -->    
-    <channel>
-        <name>[B][COLOR lime]�[/COLOR] [COLOR yellow]STATUS DO SERVIDOR[/COLOR][/B]</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https:// </externallink>
-    </channel>
-	
+	<!-- servidor 1 filmes -->    
+ 
 	<channel>
         <name>[COLOR lime]�[/COLOR]ANIMES</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214379097231430/Animes.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/3.xml</externallink>
     </channel>
 	
 	<channel>
@@ -21,7 +14,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214379487166504/Aventura.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/4.xml</externallink>
     </channel>
 	
 	<channel>
@@ -29,7 +22,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214378384072764/Acao.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/1.xml</externallink>
     </channel>
 	
 	<channel>
@@ -37,7 +30,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214379881697330/Cinema_Cam.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/5.xml</externallink>
     </channel>
 	
 	<channel>
@@ -45,7 +38,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214380481351781/Comedia.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/7.xml</externallink>
     </channel>
 	
 	<channel>
@@ -53,7 +46,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214380166647888/coletania.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/6.xml</externallink>
     </channel>
 	
 	<channel>
@@ -61,7 +54,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214380762366023/crime_policial.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/8.xml</externallink>
     </channel>
 	
 	<channel>
@@ -69,7 +62,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214381072621620/dc.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/9.xml</externallink>
     </channel>
 	
 	<channel>
@@ -77,7 +70,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214381387325450/disney.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/10.xml</externallink>
     </channel>
 	
 	<channel>
@@ -85,7 +78,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214463377580152/documentario.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/11.xml</externallink>
     </channel>
 	
 	<channel>
@@ -93,7 +86,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214463708790834/drama.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/12.xml</externallink>
     </channel>
 	
 	<channel>
@@ -101,7 +94,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214464086282340/familia.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/13.xml</externallink>
     </channel>
 
 	<channel>
@@ -109,7 +102,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214464472424518/faroeste.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/14.xml</externallink>
     </channel>
 	
 		<channel>
@@ -117,7 +110,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214464778604614/ficcao_cientifica.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/15.xml</externallink>
     </channel>
 	
 	<channel>
@@ -125,7 +118,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214465076269126/guerra_historia.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/16.xml</externallink>
     </channel>
 	
 	<channel>
@@ -133,7 +126,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214378719748197/animacao_desenho.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/2.xml</externallink>
     </channel>
 	
 	<channel>
@@ -141,7 +134,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214465449435206/LANCAMENTOS_2022.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/17.xml</externallink>
     </channel>
 	
 	<channel>
@@ -149,7 +142,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214466288549948/LANCAMENTOS_2023.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/18.xml</externallink>
     </channel>
 	
 	<channel>
@@ -157,7 +150,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214466837872700/LANCAMENTOS_2024.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/19.xml</externallink>
     </channel>
 	
 	<channel>
@@ -165,7 +158,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214467131342888/legendados.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/20.xml</externallink>
     </channel>
 	
 	<channel>
@@ -173,7 +166,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214564934131722/marvel.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/21.xml</externallink>
     </channel>
 	
 	<channel>
@@ -181,7 +174,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214565278318612/musical.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/22.xml</externallink>
     </channel>
 	
 	<channel>
@@ -189,7 +182,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214565592895508/nacionais.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/23.xml</externallink>
     </channel>
 	
 	<channel>
@@ -197,7 +190,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214566150471720/natal.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/25.xml</externallink>
     </channel>
 	
 	<channel>
@@ -205,7 +198,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214566448402542/religioso.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/26.xml</externallink>
     </channel>
 	
 	<channel>
@@ -213,7 +206,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214566737813574/romance.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/27.xml</externallink>
     </channel>
 	
 	<channel>
@@ -221,7 +214,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214567194857522/stand_up.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/28.xml</externallink>
     </channel>
 	
 	<channel>
@@ -229,7 +222,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214567509696573/suspence.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/29.xml</externallink>
     </channel>
 	
 	<channel>
@@ -237,7 +230,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214567798841375/terror.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/30.xml</externallink>
     </channel>
 	
 	<channel>
@@ -245,7 +238,7 @@
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1204214565861195787/nacionais_2.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor1/24.xml</externallink>
     </channel>
 	
 </channels>	
