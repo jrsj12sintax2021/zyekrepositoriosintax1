@@ -1,189 +1,221 @@
 <channels>
-	<!-- 02/02/2024 -->    
+	<!-- opicional -->    
     <channel>
-        <name>[COLOR lime]�[/COLOR]4K Ultra HD</name>
+        <name>[COLOR lime]●[/COLOR]Animes</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145672254029855/4K_Ultra_HD.m3u</externallink>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/1.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Ação e Aventura</name>
+        <name>[COLOR lime]●[/COLOR]Cinema</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145672845693009/Acao_e_Aventura.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/2.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Animes</name>
+        <name>[COLOR lime]●[/COLOR]Dc comics</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145673181110313/Animes.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/3.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Cinema</name>
+        <name>[COLOR lime]●[/COLOR]Lançamentos 2024</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145673466445936/Cinema.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/4.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Clássicos</name>
+        <name>[COLOR lime]●[/COLOR]Amazon prime video</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145673869107260/Classicos.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/5.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Comédia</name>
+        <name>[COLOR lime]●[/COLOR]Aventura</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145674267426878/Comedia.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/6.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Crime</name>
+        <name>[COLOR lime]●[/COLOR]Ação</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145674829340722/Crime.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/7.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Dança</name>
+        <name>[COLOR lime]●[/COLOR]Clássicos</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145675181789255/Danca.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/8.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]DC Universe</name>
+        <name>[COLOR lime]●[/COLOR]Coleções</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145675445895198/DC_Universe.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/9.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Desenhos  DC Universe</name>
+        <name>[COLOR lime]●[/COLOR]Comédia</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145675848556644/Desenhos_DC_Universe.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/10.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Desenhos Animação</name>
+        <name>[COLOR lime]●[/COLOR]Documentario</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145750381469737/Desenhos_Animacao.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/11.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Documentarios</name>
+        <name>[COLOR lime]●[/COLOR]Documentarios</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145750725394432/Documentarios.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/12.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Drama</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/13.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Familia</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/14.xml</externallink>
     </channel>
 
-	<channel>
-        <name>[COLOR lime]�[/COLOR]Drama e Suspense</name>
+    <channel>
+        <name>[COLOR lime]●[/COLOR]Faroeste</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145751102750730/Drama_e_Suspense.m3u</externallink>
-    </channel>
-	
-		<channel>
-        <name>[COLOR lime]�[/COLOR]Fantasia_e_Ficcao</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145751455338576/Fantasia_e_Ficcao.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/15.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Faroeste</name>
+        <name>[COLOR lime]●[/COLOR]Ficção</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145751790620793/Faroeste.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/16.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Guerra</name>
+        <name>[COLOR lime]●[/COLOR]Guerra</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145752147402792/Guerra.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/17.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Infantil</name>
+        <name>[COLOR lime]●[/COLOR]Hbo Max</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145752512172112/Infantil.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/18.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Lançamentos</name>
+        <name>[COLOR lime]●[/COLOR]Infantis</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145752902115338/Lancamentos.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/19.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Marvel</name>
+        <name>[COLOR lime]●[/COLOR]Lançamentos 2023</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145753225207889/Marvel.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/20.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Nacionais</name>
+        <name>[COLOR lime]●[/COLOR]Legendados</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145753518800926/Nacionais.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/21.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Religiosos</name>
+        <name>[COLOR lime]●[/COLOR]Nacionais</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145808112001114/Religiosos.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/22.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Romance</name>
+        <name>[COLOR lime]●[/COLOR]Netflix</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145808409530369/Romance.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/23.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]Terror</name>
+        <name>[COLOR lime]●[/COLOR]Religiosos</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
-		<externallink>https://cdn.discordapp.com/attachments/1155574678753116261/1203145808699195432/Terror.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/24.xml</externallink>
     </channel>
 	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Romance</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/25.xml</externallink>
+    </channel>
 	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Terror & suspence</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/26.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR]Universo marvel</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor filme aqui</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/27.xml</externallink>
+    </channel>
+	
+
 	
 </channels>	
