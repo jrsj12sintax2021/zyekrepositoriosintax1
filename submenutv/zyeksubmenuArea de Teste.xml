@@ -1,7 +1,7 @@
 <channels>
 	<!-- opicional -->    
 	<channel>
-        <name>[SIZE +2][COLOR lime]Reservado pra teste[/COLOR][/SIZE]</name>
+        <name>[SIZE 2][COLOR lime]Reservado pra teste[/COLOR][/SIZE]</name>
         <thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/emManutencao.jpg</thumbnail>
         <fanart>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/emManutencao.jpg</fanart>
 		<info>O melhor da TV aovivo</info>
@@ -17,7 +17,7 @@
     </channel>
 	
 	<channel>
-        <name>[U]teste[/U]</name>
+        <name>[u]teste[/u]</name>
         <thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/emManutencao.jpg</thumbnail>
         <fanart>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/emManutencao.jpg</fanart>
 		<info>Aquele filme Bom Aqui</info>
