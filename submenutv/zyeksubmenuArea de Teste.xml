@@ -1,28 +1,75 @@
 <channels>
 	<!-- opicional -->    
 	<channel>
-        <name>[B][I][COLOR lime]Reservado pra teste[/COLOR][/I][/B]</name>
-        <thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/emManutencao.jpg</thumbnail>
-        <fanart>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/emManutencao.jpg</fanart>
+        <name>[COLOR lime](ON)=> [/COLOR][COLOR yellow][I][B]TV Ao vivo[/B][/I] [/COLOR]</name>
+        <thumbnail>https://ia601901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20tv.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor da TV aovivo</info>
-		<externallink>https://manutençao</externallink>
+		<externallink>http://teste</externallink>
     </channel>
 	
 	<channel>
-        <name>[I]Teste[/I]</name>
-        <thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/emManutencao.jpg</thumbnail>
-        <fanart>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/emManutencao.jpg</fanart>
+        <name>[COLOR lime](ON)=> [/COLOR][COLOR yellow][I][B]FILMES[/B][/I] [/COLOR]</name>
+        <thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20filmes.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>Aquele filme Bom Aqui</info>
-		<externallink>https://manutençao</externallink>
+		<externallink>http://teste</externallink>
     </channel>
 	
 	<channel>
-        <name>[font=courier]teste[/font]</name>
-        <thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/emManutencao.jpg</thumbnail>
-        <fanart>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/emManutencao.jpg</fanart>
-		<info>Aquele filme Bom Aqui</info>
-		<externallink>https://manutençao</externallink>
+        <name>[COLOR lime](ON)=> [/COLOR][COLOR yellow][I][B]SERIES[/B][/I] [/COLOR]</name>
+        <thumbnail>https://ia601901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20series.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>Aquela Serie favorita</info>
+		<externallink>http://teste</externallink>
     </channel>
 	
+	<channel>
+        <name>[COLOR lime](ON)=> [/COLOR][COLOR yellow][I][B]Cameras ao vivo[/B][/I] [/COLOR]</name>
+        <thumbnail>https://ia601901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20cameras.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>cameras ao vivo</info>
+		<externallink>http://teste</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime](ON)=> [/COLOR][COLOR yellow][I][B] Tutoriais Kodi[/B][/I] [/COLOR]</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
+		<externallink>http://teste</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime](ON)=> [/COLOR][COLOR yellow][I][B]DESENHOS[/B][/I] [/COLOR]</name>
+        <thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20desenhos.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>Relembre sua Infancia</info>
+		<externallink>http://teste</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime](ON)=> [/COLOR][COLOR yellow][I][B]NOVELAS[/B][/I] [/COLOR]</name>
+        <thumbnail>https://ia601901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20Novelas.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>Aquela Novela que marcou sua epoca</info>
+		<externallink>http://teste</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime](ON)=> [/COLOR][COLOR yellow][I][B]RADIOS[/B][/I] [/COLOR]</name>
+        <thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20radio.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>O melhor da musica aqui</info>
+		<externallink>http://teste</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime](ON)=> [/COLOR][COLOR yellow][I][B]DOAÇÃO QRCODE PIX [/B][/I] [/COLOR][COLOR blue]chave ao lado[/COLOR]</name>
+        <thumbnail>https://ia904702.us.archive.org/34/items/pix_20230924/Pix.png</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>Ajude nos a disponibilizar o melhor Pra você atreaves da sua Doação.Chave[COLOR orange]70670637602[/COLOR]</info>
+		<externallink>http://teste</externallink>
+    </channel>
 
 </channels>	
