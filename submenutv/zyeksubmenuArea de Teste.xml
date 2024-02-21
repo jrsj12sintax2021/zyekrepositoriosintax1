@@ -72,4 +72,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dra
 								      
 #EXTINF:-1 tvg-logo="https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg",On=>Teste 2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/2620.m3u8|User-Agent=FooBar/1.2.3
+
+#EXTINF:-1 tvg-logo="https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg",On=>Teste 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/4461.m3u8|User-Agent=FooBar/1.2.3								      
 								      
