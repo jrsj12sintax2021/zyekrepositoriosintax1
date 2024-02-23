@@ -1,7 +1,7 @@
 <channels>
 	<!-- opicional -->    
     <channel>
-        <name>[COLOR lime]●[/COLOR]Animes</name>
+        <name>[COLOR lime]●[/COLOR]Ação</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
@@ -9,7 +9,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Cinema</name>
+        <name>[COLOR lime]●[/COLOR]Animação</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -17,7 +17,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Dc comics</name>
+        <name>[COLOR lime]●[/COLOR]Animes</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -25,7 +25,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Lançamentos 2024</name>
+        <name>[COLOR lime]●[/COLOR]Aventura</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -33,7 +33,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Amazon prime video</name>
+        <name>[COLOR lime]●[/COLOR]Cinema</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -41,7 +41,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Aventura</name>
+        <name>[COLOR lime]●[/COLOR]Classico</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -49,7 +49,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Ação</name>
+        <name>[COLOR lime]●[/COLOR]Comedia</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -57,7 +57,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Clássicos</name>
+        <name>[COLOR lime]●[/COLOR]Crime</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -65,7 +65,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Coleções</name>
+        <name>[COLOR lime]●[/COLOR]Documentarios</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -73,7 +73,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Comédia</name>
+        <name>[COLOR lime]●[/COLOR]Drama</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -81,7 +81,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Documentario</name>
+        <name>[COLOR lime]●[/COLOR]Especial de natal</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -89,7 +89,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Documentarios</name>
+        <name>[COLOR lime]●[/COLOR]Fantasia e ficção</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -97,7 +97,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Drama</name>
+        <name>[COLOR lime]●[/COLOR]Faroeste</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -105,7 +105,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Familia</name>
+        <name>[COLOR lime]●[/COLOR]Guerra</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -113,7 +113,7 @@
     </channel>
 
     <channel>
-        <name>[COLOR lime]●[/COLOR]Faroeste</name>
+        <name>[COLOR lime]●[/COLOR]Lançamento 2022</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -121,7 +121,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Ficção</name>
+        <name>[COLOR lime]●[/COLOR]Lançamento 2023</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -129,7 +129,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Guerra</name>
+        <name>[COLOR lime]●[/COLOR]Lançamento 2024</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -137,7 +137,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Hbo Max</name>
+        <name>[COLOR lime]●[/COLOR]Legendados</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -145,7 +145,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Infantis</name>
+        <name>[COLOR lime]●[/COLOR]Marvel</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -153,7 +153,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Lançamentos 2023</name>
+        <name>[COLOR lime]●[/COLOR]Misterio</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -161,7 +161,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Legendados</name>
+        <name>[COLOR lime]●[/COLOR]Nacionais</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -169,7 +169,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Nacionais</name>
+        <name>[COLOR lime]●[/COLOR]Religiosos</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -177,7 +177,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Netflix</name>
+        <name>[COLOR lime]●[/COLOR]Romance</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -185,7 +185,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Religiosos</name>
+        <name>[COLOR lime]●[/COLOR]Suspense</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
@@ -193,28 +193,13 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR]Romance</name>
+        <name>[COLOR lime]●[/COLOR]Terror</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>O melhor filme aqui</info>
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/25.xml</externallink>
     </channel>
 	
-	<channel>
-        <name>[COLOR lime]●[/COLOR]Terror & suspence</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>O melhor filme aqui</info>
-		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/26.xml</externallink>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]●[/COLOR]Universo marvel</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>O melhor filme aqui</info>
-		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidorfilmes/servidor3/27.xml</externallink>
-    </channel>
 	
 
 	
