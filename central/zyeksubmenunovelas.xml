@@ -8,7 +8,7 @@
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/novelas/painel%20novelas.xml</externallink>
     </channel>
 	
-	<channel>
+	channel>
         <name>[COLOR lime]�[/COLOR]O Rei do Gado (1996)</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
@@ -16,7 +16,7 @@
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidornovelas/1.xml</externallink>
     </channel>
 	
-	<channel>
+	channel>
         <name>[COLOR lime]�[/COLOR]Os Dez Mandamentos (2015)</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
@@ -24,7 +24,7 @@
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidornovelas/2.xml</externallink>
     </channel>
 	
-	<channel>
+	channel>
         <name>[COLOR lime]�[/COLOR]Pantanal (1990)</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
@@ -32,7 +32,7 @@
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidornovelas/3.xml</externallink>
     </channel>
 	
-    <channel>
+    channel>
         <name>[COLOR lime]�[/COLOR]Salve Jorge (2012)</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
@@ -40,7 +40,7 @@
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidornovelas/4.xml</externallink>
     </channel>
 	
-    <channel>
+    channel>
         <name>[COLOR lime]�[/COLOR]teresa (2010)</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
@@ -48,7 +48,7 @@
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidornovelas/5.xml</externallink>
     </channel>
 
-    <channel>
+    channel>
         <name>[COLOR lime]�[/COLOR]Ti Ti Ti (2010)</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
@@ -56,7 +56,7 @@
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidornovelas/6.xml</externallink>
     </channel>
 	
-	<channel>
+	channel>
         <name>[COLOR lime]�[/COLOR]Tieta (1989)</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
@@ -64,7 +64,7 @@
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidornovelas/7.xml</externallink>
     </channel>
 	
-	<channel>
+	channel>
         <name>[COLOR lime]�[/COLOR]Torre de Babel (1998))</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
@@ -72,7 +72,7 @@
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidornovelas/8.xml</externallink>
     </channel>
 	
-	<channel>
+	channel>
         <name>[COLOR lime]�[/COLOR]Totalmente Demais (2015)</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
@@ -80,7 +80,7 @@
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidornovelas/9.xml</externallink>
     </channel>
 	
-	<channel>
+	channel>
         <name>[COLOR lime]�[/COLOR]Vamp (1991)</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
@@ -88,7 +88,7 @@
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidornovelas/10.xml</externallink>
     </channel>
 	
-	<channel>
+	channel>
         <name>[COLOR lime]�[/COLOR]Verdades Secretas (2015)</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
@@ -96,7 +96,7 @@
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidornovelas/11.xml</externallink>
     </channel>
 	
-	<channel>
+	channel>
         <name>[COLOR lime]�[/COLOR]Viver a Vida (2009)</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
