@@ -2,7 +2,7 @@
 <channels>
 	<!-- opicional -->    
 <channel>
-<name>[COLOR lime]=>[/COLOR] [COLOR yellow]TER F4TESTER INSTALADO[/COLOR] [COLOR lime]=[/COLOR]</name>
+<name>[COLOR lime]=>[/COLOR] [COLOR yellow][B]TER F4TESTER INSTALADO[/B][/COLOR] [COLOR lime]=[/COLOR]</name>
 <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
 <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 <info>[COLOR yellow]Para rodar ter o F4tester instalado para rodar os canais[/COLOR]</info>
@@ -34,7 +34,7 @@
 </channel>
 
 <channel>
-<name>[COLOR lime]�[/COLOR]Servidor 4[COLOR yellow] TV[/COLOR][COLOR lime] (Atualizado) [/COLOR]</name>
+<name>[COLOR lime]�[/COLOR]Servidor 4[COLOR yellow] TV[/COLOR][COLOR lime][B][I] (Atualizado)[/I][/B][/COLOR]</name>
 <thumbnail>https://ia601901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20servidor%20de%20tv%204.jpg</thumbnail>
 <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 <info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
