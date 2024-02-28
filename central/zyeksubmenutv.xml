@@ -10,19 +10,19 @@
 </channel>
 	
 <channel>
-<name>[COLOR lime]�[/COLOR]Servidor 1[COLOR yellow] TV[/COLOR][COLOR lime][B][I] (Atualizado)[/I][/B][/COLOR]</name>
+<name>[COLOR red]�[/COLOR]Servidor 1[COLOR yellow] TV[/COLOR][COLOR orange][B][I] (Manutenção)[/I][/B][/COLOR]</name>
 <thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20servidor%20tv1.jpg</thumbnail>
 <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 <info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuservidor1tv.xml</externallink>
+<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuservidor1tv.xm</externallink>
 </channel>
 	
 <channel>
-<name>[COLOR lime]�[/COLOR]Servidor 2[COLOR yellow] TV [/COLOR]</name>
+<name>[COLOR red]�[/COLOR]Servidor 2[COLOR yellow] TV [/COLOR][COLOR orange][B][I] (Manutenção)[/I][/B][/COLOR]</name>
 <thumbnail>https://ia801901.us.archive.org/34/items/emManutencao/icones%20para%20cinedragon/icone%20servidor%20de%20tv%202.jpg</thumbnail>
 <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 <info>[COLOR yellow]10/2024[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuservidor2tv.xml</externallink>
+<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenutv/zyeksubmenuservidor2tv.xm</externallink>
 </channel>
 	
 <channel>
