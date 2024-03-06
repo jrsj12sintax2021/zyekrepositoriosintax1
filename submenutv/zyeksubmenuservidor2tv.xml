@@ -1,5 +1,5 @@
 <channels>
-	<!-- servidor 2 01/03/2024 -->    
+	<!-- servidor 2 05/03/2024 -->    
 	
 	<channel>
         <name>[COLOR lime]●[/COLOR] ABERTOS</name>
@@ -10,7 +10,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR] BBB</name>
+        <name>[COLOR lime]●[/COLOR] Agronegocios</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
@@ -18,7 +18,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR] Campeonatos estaduais</name>
+        <name>[COLOR lime]●[/COLOR] Band</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
@@ -26,7 +26,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR] Cine Sky</name>
+        <name>[COLOR lime]●[/COLOR] BBB</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
@@ -34,7 +34,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR] DAZN</name>
+        <name>[COLOR lime]●[/COLOR] Campeonatos estaduais</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
@@ -42,7 +42,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR] Documentarios</name>
+        <name>[COLOR lime]●[/COLOR] Cine Sky</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
@@ -50,7 +50,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR] ESPN</name>
+        <name>[COLOR lime]●[/COLOR] Combate</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
@@ -58,7 +58,7 @@
     </channel>
 
 <channel>
-        <name>[COLOR lime]●[/COLOR] Esporte</name>
+        <name>[COLOR lime]●[/COLOR] Conmebol</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
@@ -66,7 +66,7 @@
 </channel>
 	
     <channel>
-        <name>[COLOR lime]●[/COLOR] Filmes e Series</name>
+        <name>[COLOR lime]●[/COLOR] Copinha</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
@@ -74,7 +74,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR] Globo</name>
+        <name>[COLOR lime]●[/COLOR] Dazn</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
@@ -82,7 +82,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR] HBO MAX[COLOR lime][B][I] (Novo)[/I][/B][/COLOR] </name>
+        <name>[COLOR lime]●[/COLOR]Discovery</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
@@ -90,7 +90,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR] HBO</name>
+        <name>[COLOR lime]●[/COLOR] Documentarios</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
@@ -98,7 +98,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR] Infantis</name>
+        <name>[COLOR lime]●[/COLOR] Espn</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
@@ -106,7 +106,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR] Noticias</name>
+        <name>[COLOR lime]●[/COLOR] Esporte Geral</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
@@ -114,7 +114,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR] PPV</name>
+        <name>[COLOR lime]●[/COLOR] Filmes e series</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
@@ -122,7 +122,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR] Premiere</name>
+        <name>[COLOR lime]●[/COLOR] Fox Sport</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
@@ -130,7 +130,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR] Religiosos</name>
+        <name>[COLOR lime]●[/COLOR] Globo</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
@@ -138,7 +138,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR] SportTV</name>
+        <name>[COLOR lime]●[/COLOR] HBO Max[COLOR lime][B][I] (NOVO)[/COLOR][/I][/B]</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
@@ -146,7 +146,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR] STAR +</name>
+        <name>[COLOR lime]●[/COLOR] HBO</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
@@ -154,7 +154,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR] Telecine</name>
+        <name>[COLOR lime]●[/COLOR] Infantil</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
@@ -162,12 +162,76 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]●[/COLOR] Variedades</name>
+        <name>[COLOR lime]●[/COLOR] Noticias</name>
         <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
         <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
 		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidortv/servidor2/21.xml</externallink>
     </channel>
 	
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR] Premiere FC</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidortv/servidor2/22.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR] Record</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidortv/servidor2/23.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR] Religiosos</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidortv/servidor2/24.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR] SBT</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidortv/servidor2/25.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR] Sportv</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidortv/servidor2/26.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR] Star</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidortv/servidor2/27.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR] Telecine</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidortv/servidor2/28.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]●[/COLOR] Variedades</name>
+        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
+        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidortv/servidor2/29.xml</externallink>
+    </channel>
 	
 </channels>	
