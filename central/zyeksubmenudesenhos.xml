@@ -24,21 +24,15 @@
 		<externallink>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/desenhos/painel%20de%20categorias%20desenhos.xml</externallink>
     </channel>
 	
+	
 	<channel>
-        <name>[COLOR lime]�[/COLOR]101 dalmatas</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenudesenhoslink/dalmatas.xml</externallink>
+        <name>[COLOR lime]�[/COLOR][COLOR blue][B][I] Xmen-Evolutions[/I][/B][/COLOR][COLOR yellow]direto[/COLOR]</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg</fanart>
+		<info>Com base nos quadrinhos populares da Marvel, esta maravilhosa história sobre amadurecimento acompanha adolescentes aparentemente “normais” que podem lançar raios ópticos, levitar objetos e desaparecer à vontade enquanto tentam tirar notas boas na escola.</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidordesenho/xmen%20evolutions/Painel.xml</externallink>
     </channel>
 
-	<channel>
-        <name>[COLOR lime]�[/COLOR]Os camundogos aventureiros</name>
-        <thumbnail>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</thumbnail>
-        <fanart>https://ia600504.us.archive.org/6/items/fanart_202309/fanart.jpg</fanart>
-		<info>[COLOR lime]�[/COLOR]Online [COLOR yellow]�[/COLOR]Manutenção [COLOR red]�[/COLOR]Offline</info>
-		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax1/main/submenudesenhoslink/Os%20camundongos%20aventureiros.xml</externallink>
-    </channel>
 
 
 </channels>	
