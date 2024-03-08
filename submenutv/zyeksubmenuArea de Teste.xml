@@ -166,8 +166,8 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dra
 #EXTINF:-1 tvg-logo="https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg",On=>Teste 8a
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.srvdns.fun:80/live/69754976091615/270134573857/4794331.ts|User-Agent=FooBar/1.2.3													http://hubby.bz:80/movie/lbs8382sheihs-vods/e07awukfn1/52000.mp4
 
-#EXTINF:-1 tvg-logo="https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg",On=>Teste 9a
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.srvdns.fun:80/69754976091615/270134573857/4794331|User-Agent=FooBar/1.2.3													
+#EXTINF:-1 tvg-logo="https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg",On=>Teste 9 new
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=F4MTESTER&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34915.m3u8													
 
 #EXTINF:-1 tvg-logo="https://isinaliza.vtexassets.com/arquivos/ids/173952/1943-placa-atencao-area-de-teste-aluminio-acm-75x60cm-fixacao-1.jpg",On=>Teste 10 New													
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=F4MTESTER&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34915.m3u8|User-Agent=FooBar/1.2.3
